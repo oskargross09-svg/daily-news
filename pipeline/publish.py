@@ -11,7 +11,7 @@ import base64, datetime as dt, json, os, subprocess, sys, time
 from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REPO = "dn508248-ui/daily-news"
+REPO = "oskargross09-svg/daily-news"
 
 
 def sh(cmd, cwd=ROOT, check=True):

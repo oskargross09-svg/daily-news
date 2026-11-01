@@ -8,7 +8,7 @@ or now (true = publish immediately).
 import json, os, sys
 from buffer import gql
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "dn508248-ui/daily-news")
+REPO = os.environ.get("GITHUB_REPOSITORY", "oskargross09-svg/daily-news")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 channels = json.load(open("config/channels.json"))
 
