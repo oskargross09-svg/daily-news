@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-02",
+  "edition": "evening",
+  "category": "politics",
+  "source": "Al Jazeera, AFP",
+  "voice": "af_heart",
+  "headline": {
+    "text": "US midterm elections take place tomorrow",
+    "context": "Control of Congress is at stake.",
+    "vo": "Americans vote tomorrow in midterm elections that will decide who controls Congress. All four hundred thirty-five House seats and thirty-five Senate seats are on the ballot."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "53-47",
+      "label": "Republican majority in the Senate",
+      "text": "Democrats need a net *four* seats for control.",
+      "vo": "Republicans currently hold both chambers. In the Senate they lead fifty-three to forty-seven, so Democrats need a net gain of four seats. In the House, they need a net gain of three."
+    },
+    {
+      "type": "map",
+      "focus": ["United States of America"],
+      "bbox": [-126, 23, -65, 50],
+      "places": [
+        {"name": "Michigan", "lat": 44.3, "lon": -85.6},
+        {"name": "Texas", "lat": 31.0, "lon": -99.5, "main": true},
+        {"name": "Kansas", "lat": 38.5, "lon": -98.4},
+        {"name": "Iowa", "lat": 42.0, "lon": -93.5},
+        {"name": "North Carolina", "lat": 35.5, "lon": -79.4}
+      ],
+      "text": "Senate control hinges on *close races* in a few states.",
+      "vo": "Polls show Democrats ahead nationally. But control of the Senate will come down to a handful of close races, in states including Michigan, Texas, Kansas, Iowa and North Carolina."
+    },
+    {
+      "type": "timeline",
+      "title": "What to expect",
+      "items": [
+        {"when": "Tuesday", "what": "Americans vote"},
+        {"when": "Tue evening", "what": "Polls close, first results"},
+        {"when": "Later", "what": "Close races may take days"}
+      ],
+      "vo": "Voting takes place on Tuesday. Polls begin closing that evening, with the first results expected soon after. Some close races could take days to call."
+    }
+  ],
+  "title": "US midterm elections: what is at stake tomorrow",
+  "caption": "Americans vote tomorrow in midterm elections that will decide control of Congress. All 435 House seats and 35 Senate seats are up, and Republicans currently hold both chambers. Polls show Democrats ahead nationally, but the Senate will be decided in a few close races. First results are expected on Tuesday evening.",
+  "hashtags": ["politics", "news", "dailynews", "usmidterms", "congress"]
+}
