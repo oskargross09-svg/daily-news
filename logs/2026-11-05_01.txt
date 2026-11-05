@@ -1,0 +1,43 @@
+{
+ "job": "videos/2026-11-05_01.json",
+ "run": "20261105T062355",
+ "url": "https://raw.githubusercontent.com/oskargross09-svg/daily-news/media/videos/2026-11-05_01.mp4",
+ "draft": false,
+ "ok": true,
+ "results": {
+  "tiktok": {
+   "data": {
+    "createPost": {
+     "post": {
+      "id": "6aec21097877e0eab27b6fd3",
+      "status": "sending",
+      "dueAt": "2026-11-05T06:24:09.540Z"
+     }
+    }
+   }
+  },
+  "youtube": {
+   "data": {
+    "createPost": {
+     "post": {
+      "id": "6aec211380f7fd0537f41a15",
+      "status": "sent",
+      "dueAt": "2026-11-05T06:24:19.983Z"
+     }
+    }
+   }
+  },
+  "instagram": {
+   "data": {
+    "createPost": {
+     "post": {
+      "id": "6aec2116660b2991f156ea70",
+      "status": "sending",
+      "dueAt": "2026-11-05T06:24:22.514Z"
+     }
+    }
+   }
+  }
+ }
+}
+rc=0
