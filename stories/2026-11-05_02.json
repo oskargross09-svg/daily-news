@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-05",
+  "edition": "evening",
+  "category": "politics",
+  "source": "AFP, Anadolu",
+  "voice": "af_heart",
+  "say": {
+    "Joshua": "Joshoowa",
+    "Wong": "Wawng"
+  },
+  "headline": {
+    "text": "Hong Kong court jails Joshua Wong for 10 more years",
+    "context": "He pleaded guilty to conspiring with foreign forces.",
+    "vo": "A Hong Kong court has sentenced pro-democracy activist Joshua Wong to ten more years in prison. He had pleaded guilty to conspiring to collude with foreign forces, under the national security law."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Hong Kong"
+      ],
+      "bbox": [
+        100,
+        16,
+        128,
+        43
+      ],
+      "places": [
+        {
+          "name": "Hong Kong",
+          "lat": 22.3193,
+          "lon": 114.1694,
+          "main": true
+        },
+        {
+          "name": "Beijing",
+          "lat": 39.9042,
+          "lon": 116.4074
+        }
+      ],
+      "text": "The court named Wong and *Nathan Law* as the leaders.",
+      "vo": "Judge William Tam named Wong and activist Nathan Law as leaders of the plan. Law lives abroad and is wanted by Hong Kong authorities."
+    },
+    {
+      "type": "stat",
+      "number": "2036",
+      "label": "Wong's expected release, AFP reports",
+      "text": "He was due to be freed in *January*.",
+      "vo": "Wong, who is thirty, was already in prison for subversion and due for release in January. He is now not expected to be freed until late 2036."
+    },
+    {
+      "type": "timeline",
+      "title": "How we got here",
+      "items": [
+        {
+          "when": "2019",
+          "what": "Mass protests in Hong Kong"
+        },
+        {
+          "when": "2020",
+          "what": "Security law imposed"
+        },
+        {
+          "when": "2024",
+          "what": "Sentenced for subversion"
+        },
+        {
+          "when": "Nov 5",
+          "what": "Ten more years for collusion"
+        }
+      ],
+      "vo": "In 2019, mass protests swept Hong Kong. In 2020, Beijing imposed the national security law. In 2024, Wong and dozens of others were sentenced for subversion. On Thursday, he was sentenced again, for lobbying abroad for sanctions."
+    }
+  ],
+  "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+  "caption": "A Hong Kong court has sentenced pro-democracy activist Joshua Wong to 10 more years in prison after he pleaded guilty to conspiring to collude with foreign forces under the national security law. He was due to be freed in January and is now not expected to be released until late 2036, AFP reports. The court named him and exiled activist Nathan Law as leaders of a campaign for foreign sanctions.",
+  "hashtags": [
+    "politics",
+    "news",
+    "dailynews",
+    "hongkong",
+    "joshuawong"
+  ]
+}
