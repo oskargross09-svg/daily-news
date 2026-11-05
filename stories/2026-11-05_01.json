@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-05",
+  "edition": "morning",
+  "category": "politics",
+  "source": "AP, ABC News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Trump links midterm losses to the Iran war",
+    "context": "Democrats won control of both houses of Congress.",
+    "vo": "President Trump says the war with Iran was part of the reason his Republican Party lost control of Congress in Tuesday's midterm elections."
+  },
+  "beats": [
+    {
+      "type": "timeline",
+      "title": "How we got here",
+      "items": [
+        {"when": "Feb 28", "what": "US and Israel strike Iran"},
+        {"when": "Mar 4", "what": "Iran closes Hormuz"},
+        {"when": "Nov 3", "what": "Republicans lose Congress"}
+      ],
+      "vo": "The United States and Israel launched an air war against Iran on February twenty-eighth. Days later, Iran declared the Strait of Hormuz closed, and oil prices rose sharply. On Tuesday, Democrats won majorities in both the House and the Senate, AP projects."
+    },
+    {
+      "type": "quote",
+      "quote": "Iran was a piece of it.",
+      "who": "Donald Trump",
+      "role": "US President, to The Wall Street Journal",
+      "vo": "Trump told The Wall Street Journal, Iran was a piece of it. On Wednesday he said the war drove up gasoline prices, but that it was still worth it."
+    },
+    {
+      "type": "statement",
+      "text": "The new Congress takes office in *January*.",
+      "vo": "With majorities in both chambers, Democrats will be able to block the president's plans and lead investigations. The new Congress takes office in January."
+    }
+  ],
+  "title": "Trump says the Iran war played a part in Republican midterm losses",
+  "caption": "Democrats won control of both the US House and Senate in Tuesday's midterm elections, AP projects. President Trump says the war with Iran, which pushed up fuel prices, was part of the reason, but says it was worth it. The new Congress takes office in January.",
+  "hashtags": ["politics", "news", "dailynews", "midterms", "iran"]
+}
