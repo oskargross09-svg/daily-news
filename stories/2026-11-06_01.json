@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-06",
+  "edition": "morning",
+  "category": "economy",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "AI stock sell-off spreads from Wall Street to Asia",
+    "context": "Investors fear tighter AI rules after the US midterms.",
+    "vo": "A sell-off in artificial intelligence stocks has spread from Wall Street to Asia. Investors fear that Democrats, who won this week's US midterm elections, will slow the building of AI data centres."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "5.5%",
+      "label": "Nasdaq fall on Thursday, Reuters and AP report",
+      "text": "Chipmaker Nvidia fell more than *9%*.",
+      "vo": "On Thursday, the tech-heavy Nasdaq index fell five and a half percent. The S&P 500 lost four point four percent, its worst day since April 2025. Chipmaker Nvidia dropped more than nine percent."
+    },
+    {
+      "type": "map",
+      "focus": [
+        "South Korea",
+        "Japan"
+      ],
+      "bbox": [
+        118,
+        28,
+        146,
+        44
+      ],
+      "places": [
+        {
+          "name": "Seoul",
+          "lat": 37.5665,
+          "lon": 126.978,
+          "main": true
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.6762,
+          "lon": 139.6503
+        }
+      ],
+      "text": [
+        "South Korea's Kospi fell more than *8%*.",
+        "Japan's Nikkei dropped about *6%*."
+      ],
+      "vo": "On Friday, the selling reached Asia. South Korea's main index, the Kospi, fell more than eight percent, triggering a trading halt. Japan's Nikkei dropped about six percent."
+    },
+    {
+      "type": "quote",
+      "quote": "There is also clearly an element of panic in the selling.",
+      "who": "Charu Chanana",
+      "role": "Chief investment strategist, Saxo",
+      "vo": "Investors worry that newly elected officials could push for limits or pauses on new data centres. A strategist at Saxo said there is clearly an element of panic in the selling."
+    }
+  ],
+  "title": "AI stock sell-off spreads from Wall Street to Asia after US midterms",
+  "caption": "A sell-off in AI stocks has spread from Wall Street to Asia. The Nasdaq fell 5.5% on Thursday and South Korea's Kospi dropped more than 8% on Friday, triggering a trading halt, Reuters reports. Investors fear Democrats, who won both houses of Congress, could slow the building of AI data centres.",
+  "hashtags": [
+    "economy",
+    "news",
+    "dailynews",
+    "stockmarket",
+    "ai"
+  ]
+}
