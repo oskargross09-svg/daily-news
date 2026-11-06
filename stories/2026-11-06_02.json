@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-06",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, RTÉ",
+  "voice": "af_heart",
+  "say": {
+    "RTÉ": "Ar Tee Ee"
+  },
+  "headline": {
+    "text": "Hoax bomb threats spread from flights to newsrooms",
+    "context": "Irish media evacuated offices on Friday.",
+    "vo": "A wave of hoax bomb threats in Europe has spread from planes to newsrooms. On Friday, Irish media evacuated their Dublin offices."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "27",
+      "label": "flights hit by hoax threats on Thursday, RTÉ reports",
+      "text": "No bombs were found and *no one* was hurt.",
+      "vo": "On Thursday, at least twenty-seven flights across Europe received bomb threats, from Ireland to Bulgaria. Some planes made unplanned landings, and fighter jets escorted others. No bombs were found."
+    },
+    {
+      "type": "map",
+      "focus": [
+        "Ireland",
+        "Czechia",
+        "Italy"
+      ],
+      "bbox": [
+        -14,
+        38,
+        22,
+        57
+      ],
+      "places": [
+        {
+          "name": "Dublin",
+          "lat": 53.3498,
+          "lon": -6.2603,
+          "main": true
+        },
+        {
+          "name": "Prague",
+          "lat": 50.0755,
+          "lon": 14.4378
+        },
+        {
+          "name": "Venice",
+          "lat": 45.4408,
+          "lon": 12.3155
+        },
+        {
+          "name": "Rome",
+          "lat": 41.9028,
+          "lon": 12.4964
+        }
+      ],
+      "route": [
+        "Prague",
+        "Venice"
+      ],
+      "text": [
+        "Broadcaster RTÉ *evacuated* its Dublin offices.",
+        "A Prague–Rome flight landed in *Venice*."
+      ],
+      "vo": "On Friday, an emailed threat forced RTÉ to evacuate its Dublin headquarters, and radio shows briefly went off air. The Irish Independent and Newstalk also cleared their offices. A plane from Prague to Rome was diverted to Venice after a new threat."
+    },
+    {
+      "type": "quote",
+      "quote": "Any attack or threat of attack on the media is a threat and attack on our democracy.",
+      "who": "Simon Harris",
+      "role": "Deputy prime minister of Ireland",
+      "vo": "Ireland's government called the threats very serious and said they were likely a coordinated campaign. Authorities have not said who is behind them. Ireland hosts a summit of European leaders next week."
+    }
+  ],
+  "title": "Hoax bomb threats spread from European flights to Irish newsrooms",
+  "caption": "A wave of hoax bomb threats that hit at least 27 flights across Europe on Thursday reached newsrooms on Friday, when RTÉ and other Irish media evacuated their Dublin offices. New threats also hit flights, and a plane was diverted to Venice. No bombs were found. Ireland's government says a coordinated campaign is likely, days before it hosts European leaders.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "europe",
+    "bombthreats"
+  ]
+}
