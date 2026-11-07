@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "edition": "morning",
+  "category": "politics",
+  "source": "AP, CBS News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Trump replaces his chief of staff after midterm loss",
+    "context": "Stephen Miller takes over from Susie Wiles.",
+    "vo": "President Trump is replacing his White House chief of staff, days after his Republican Party lost control of Congress. Stephen Miller will take over from Susie Wiles."
+  },
+  "beats": [
+    {
+      "type": "timeline",
+      "title": "A week of change",
+      "items": [
+        {"when": "Tue", "what": "Republicans lose Congress"},
+        {"when": "Fri", "what": "Trump names Miller"},
+        {"when": "Mon", "what": "Miller starts the job"}
+      ],
+      "vo": "On Tuesday, Democrats won control of both the House and the Senate in the midterm elections. On Friday, Trump announced the change on his social media site. Miller will start as chief of staff on Monday, Trump said."
+    },
+    {
+      "type": "statement",
+      "text": ["Miller is Trump's deputy chief of staff.", "He shaped the administration's *immigration* policy."],
+      "vo": "Miller is currently deputy chief of staff and one of Trump's closest aides. He is a key architect of the administration's hard-line immigration policies, AP reports."
+    },
+    {
+      "type": "quote",
+      "quote": "Susie Wiles, who has done an outstanding job, will be moving over to the Trump Political Operation.",
+      "who": "Donald Trump",
+      "role": "US president",
+      "vo": "Wiles was the first woman to serve as White House chief of staff. Trump praised her work and said she will move to his political organisation. CBS News calls it the biggest change to his team since the midterms."
+    }
+  ],
+  "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller after midterm loss",
+  "caption": "Days after Republicans lost control of Congress in the US midterms, President Trump named his deputy chief of staff Stephen Miller as his new White House chief of staff. Susie Wiles, the first woman in the job, moves to Trump's political operation. Miller, a key architect of Trump's immigration policy, starts on Monday, Trump said.",
+  "hashtags": ["politics", "news", "dailynews", "trump", "whitehouse"]
+}
