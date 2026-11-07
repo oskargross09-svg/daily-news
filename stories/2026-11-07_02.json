@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-07",
+  "edition": "evening",
+  "category": "politics",
+  "source": "AAP, dpa",
+  "voice": "af_heart",
+  "say": {
+    "AAP": "A A P"
+  },
+  "headline": {
+    "text": "New Zealand election too close to call",
+    "context": "Luxon's coalition has a slim lead after the count.",
+    "vo": "New Zealand's election is too close to call. After Saturday's vote, Prime Minister Christopher Luxon's coalition holds a razor-thin lead, but the final result is weeks away."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "New Zealand"
+      ],
+      "places": [
+        {
+          "name": "Auckland",
+          "lat": -36.8485,
+          "lon": 174.7633
+        },
+        {
+          "name": "Wellington",
+          "lat": -41.2865,
+          "lon": 174.7762,
+          "main": true
+        }
+      ],
+      "text": "*National* and Labour are almost level.",
+      "vo": "Luxon's National Party and Labour each won about twenty-nine percent of the party vote, AAP reports. The new Opportunity Party is set to enter parliament for the first time.",
+      "bbox": [
+        160,
+        -48,
+        179.9,
+        -33.5
+      ]
+    },
+    {
+      "type": "stat",
+      "number": "67",
+      "label": "of 130 seats for Luxon's coalition, preliminary results",
+      "text": "*66* seats are needed for a majority.",
+      "vo": "On preliminary results, National, ACT and New Zealand First would win sixty-seven seats. Parliament grows to one hundred and thirty seats, so sixty-six are needed for a majority. Special votes, including from overseas, are still to be counted."
+    },
+    {
+      "type": "quote",
+      "quote": "But I have to tell you right now it is too close to call.",
+      "who": "Christopher Luxon",
+      "role": "Prime minister of New Zealand",
+      "vo": "Labour leader Chris Hipkins did not concede. He said every vote must now be counted. The final result is due on November twenty-seventh."
+    }
+  ],
+  "title": "New Zealand election too close to call as Luxon's coalition holds a slim lead",
+  "caption": "New Zealand's general election ended without a clear winner. On preliminary results, Prime Minister Christopher Luxon's coalition of National, ACT and NZ First would hold 67 of 130 seats, just above the 66 needed for a majority. Special votes are still being counted, and the final result is due on November 27.",
+  "hashtags": [
+    "politics",
+    "news",
+    "dailynews",
+    "newzealand",
+    "election"
+  ]
+}
