@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-08",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Al Jazeera",
+  "voice": "af_heart",
+  "say": {
+    "Ostrowiec": "Oss trove yets",
+    "Kierwinski": "Kyer vin ski"
+  },
+  "headline": {
+    "text": "Poland mourns six killed in Krakow shooting",
+    "context": "Prosecutors are treating it as a terrorist attack.",
+    "vo": "Poland has begun two days of national mourning after a gunman killed six people in the main square of Krakow on Saturday. Prosecutors are investigating it as a terrorist offence."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "6",
+      "label": "people killed in the main square, police say",
+      "text": "*15* were wounded, including police officers.",
+      "vo": "Four women and two men were killed. Fifteen people were wounded, including police officers and visitors from five other countries. Police shot the attacker, and he is in a critical condition."
+    },
+    {
+      "type": "map",
+      "focus": ["Poland"],
+      "places": [
+        {"name": "Warsaw", "lat": 52.2297, "lon": 21.0122},
+        {"name": "Ostrowiec", "lat": 50.9294, "lon": 21.3853},
+        {"name": "Krakow", "lat": 50.0617, "lon": 19.9373, "main": true}
+      ],
+      "route": ["Ostrowiec", "Krakow"],
+      "text": "Three more bodies were found at his *family home*.",
+      "vo": "The suspect is a twenty-four-year-old Polish man. Police later found three more bodies at his family home in Ostrowiec, about a hundred and fifty kilometres away. Police say they are his parents and his sister."
+    },
+    {
+      "type": "quote",
+      "quote": "Everything indicates that he was fascinated by far-right ideologies",
+      "who": "Marcin Kierwinski",
+      "role": "Poland's interior minister",
+      "vo": "Interior Minister Marcin Kierwinski said the attacker held ultranationalist views. On Sunday, the square stayed largely closed, and the trumpet call from Saint Mary's Church fell silent for the first time since the Second World War."
+    }
+  ],
+  "title": "Poland mourns six people killed in Krakow shooting as prosecutors open terror probe",
+  "caption": "Poland has begun two days of national mourning after a gunman killed six people and wounded 15 in Krakow's Main Square on Saturday. Three more bodies, believed to be his parents and sister, were found at his family home. Prosecutors are investigating the attack as a terrorist offence, and officials say the 24-year-old suspect held far-right views.",
+  "hashtags": ["world", "news", "dailynews", "poland", "krakow"]
+}
