@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-08",
+  "edition": "morning",
+  "category": "politics",
+  "source": "Times of Israel, Al Jazeera",
+  "voice": "af_heart",
+  "say": {
+    "Yashar": "Ya shar"
+  },
+  "headline": {
+    "text": "Herzog picks Eisenkot to form Israel's government",
+    "context": "Netanyahu was passed over after the October vote.",
+    "vo": "Israel's president has chosen opposition leader Gadi Eisenkot, not Prime Minister Benjamin Netanyahu, to try to form the next government."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "67",
+      "label": "of 120 lawmakers recommended Eisenkot",
+      "text": "Netanyahu was backed by *46*.",
+      "vo": "Sixty-seven of the hundred and twenty lawmakers recommended Eisenkot, including Arab-led parties. Forty-six backed Netanyahu. Eisenkot is a former military chief."
+    },
+    {
+      "type": "timeline",
+      "title": "What happens next",
+      "items": [
+        {
+          "when": "Oct 27",
+          "what": "Election, no majority"
+        },
+        {
+          "when": "Sat",
+          "what": "Herzog picks Eisenkot"
+        },
+        {
+          "when": "Sun",
+          "what": "Formal mandate ceremony"
+        },
+        {
+          "when": "28 days",
+          "what": "To build a coalition"
+        }
+      ],
+      "vo": "The October twenty-seventh election left neither side with a majority. On Saturday, President Isaac Herzog announced his choice. The formal handover is on Sunday evening. Eisenkot then has twenty-eight days, with a possible extension, to win sixty-one seats."
+    },
+    {
+      "type": "quote",
+      "quote": "Now is the time for the formation of a national emergency government",
+      "who": "Gadi Eisenkot",
+      "role": "Leader of the Yashar party",
+      "vo": "Eisenkot called for a broad emergency government. Netanyahu wants a national unity government instead, and some of Eisenkot's allies oppose relying on Arab-led parties."
+    }
+  ],
+  "title": "Israel's president picks Gadi Eisenkot over Netanyahu to form the next government",
+  "caption": "Israeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a government after 67 of 120 lawmakers recommended him, against 46 for Prime Minister Benjamin Netanyahu. The formal mandate is handed over on Sunday. Eisenkot then has 28 days, with a possible 14-day extension, to build a coalition of at least 61 seats.",
+  "hashtags": [
+    "politics",
+    "news",
+    "dailynews",
+    "israel",
+    "eisenkot"
+  ]
+}
