@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "edition": "morning",
+  "category": "climate",
+  "source": "dpa, Anadolu",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "UN climate summit COP31 opens in Turkey",
+    "context": "Nearly 200 countries meet in Antalya.",
+    "vo": "The United Nations climate summit, COP31, opens today in Antalya, in southern Turkey. It comes as the UN now expects the world to overshoot the one point five degree warming limit agreed in Paris."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Turkey"],
+      "places": [
+        {"name": "Istanbul", "lat": 41.0082, "lon": 28.9784},
+        {"name": "Ankara", "lat": 39.9334, "lon": 32.8597},
+        {"name": "Antalya", "lat": 36.8969, "lon": 30.7133, "main": true}
+      ],
+      "text": "Turkey hosts, *Australia* leads the negotiations.",
+      "vo": "Delegates from nearly two hundred countries are taking part. Turkey hosts the summit, while Australia's climate minister, Chris Bowen, chairs the negotiations. Critics say the split is unusual."
+    },
+    {
+      "type": "stat",
+      "number": "35%",
+      "label": "of the world's energy from electricity by 2035, the hosts' goal",
+      "text": "*Fossil fuels* and finance remain the main disputes.",
+      "vo": "The hosts want countries to back a goal of getting thirty-five percent of the world's energy from electricity by 2035. Fossil fuels and money for poorer countries are expected to be the hardest issues."
+    },
+    {
+      "type": "timeline",
+      "title": "What happens next",
+      "items": [
+        {"when": "9 Nov", "what": "Talks open in Antalya"},
+        {"when": "11–12 Nov", "what": "World leaders speak"},
+        {"when": "20 Nov", "what": "Summit due to end"}
+      ],
+      "vo": "Negotiators begin their work today. On Wednesday and Thursday, world leaders are due to speak. The summit is scheduled to end on the twentieth of November."
+    }
+  ],
+  "title": "UN climate summit COP31 opens in Antalya, Turkey",
+  "caption": "The UN climate summit COP31 opens today in Antalya, Turkey, with nearly 200 countries taking part until 20 November. Turkey hosts the talks while Australia chairs the negotiations. The hosts want a global goal of getting 35% of energy from electricity by 2035, but fossil fuels and climate finance are expected to be the hardest issues. World leaders are due to speak on 11 and 12 November.",
+  "hashtags": ["climate", "news", "dailynews", "cop31", "turkey"]
+}
