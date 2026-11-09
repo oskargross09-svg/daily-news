@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-09",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Kyiv Independent",
+  "voice": "af_heart",
+  "say": {"Barrot": "Bah roh"},
+  "headline": {
+    "text": "Ukraine peace talks resume in Abu Dhabi",
+    "context": "Europe says it will be represented too.",
+    "vo": "Russia and Ukraine are due to resume US-brokered peace talks in Abu Dhabi on Tuesday, and European officials say they will be there too."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["United Arab Emirates"],
+      "bbox": [22, 18, 62, 60],
+      "places": [
+        {"name": "Kyiv", "lat": 50.4501, "lon": 30.5234},
+        {"name": "Moscow", "lat": 55.7558, "lon": 37.6173},
+        {"name": "Abu Dhabi", "lat": 24.4539, "lon": 54.3773, "main": true}
+      ],
+      "text": "Talks focus on *security guarantees*.",
+      "vo": "Delegations from Moscow and Kyiv will meet in the Emirati capital, with the United States mediating. The talks are expected to focus on security guarantees for both sides."
+    },
+    {
+      "type": "statement",
+      "text": ["Europe says it will be *represented*.", "Kremlin calls the talks *trilateral*."],
+      "vo": "France's foreign minister, Jean-Noël Barrot, says European representatives will be in Abu Dhabi. Officials say Britain, France, Germany, NATO and the EU are expected. The Kremlin says the meeting is a matter for Russia, Ukraine and the United States."
+    },
+    {
+      "type": "timeline",
+      "title": "Before the talks",
+      "items": [
+        {"when": "Overnight", "what": "Russia strikes power grid"},
+        {"when": "Monday", "what": "Fire at Russian oil refinery"},
+        {"when": "Tue–Wed", "what": "Talks in Abu Dhabi"}
+      ],
+      "vo": "Overnight, Russia's defence ministry said it struck power substations in Ukraine. Ukrainian drones set fire to an oil refinery near Saint Petersburg, the regional governor said. The talks are due to run on Tuesday and Wednesday."
+    }
+  ],
+  "title": "Russia-Ukraine peace talks resume in Abu Dhabi, with Europe set to attend",
+  "caption": "Russia and Ukraine are due to resume US-brokered peace talks in Abu Dhabi on 10 and 11 November, with security guarantees expected to be the focus. France says European representatives will be there, while the Kremlin calls the meeting trilateral. Both sides carried out long-range strikes on the eve of the talks.",
+  "hashtags": ["world", "news", "dailynews", "ukraine", "peacetalks"]
+}
