@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-10",
+  "edition": "evening",
+  "category": "world",
+  "source": "Al Jazeera, ABC News",
+  "voice": "af_heart",
+  "say": {"Umerov": "Oo-meh-rov"},
+  "headline": {
+    "text": "Russia and Ukraine hold first talks since February",
+    "context": "Talks in Abu Dhabi continue on Wednesday.",
+    "vo": "Russian and Ukrainian negotiators have met in Abu Dhabi for their first US-brokered talks since February. The first day ended after several hours, and talks continue on Wednesday."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Ukraine", "Russia", "United Arab Emirates"],
+      "bbox": [22, 18, 62, 60],
+      "places": [
+        {"name": "Kyiv", "lat": 50.4501, "lon": 30.5234},
+        {"name": "Moscow", "lat": 55.7558, "lon": 37.6173},
+        {"name": "Abu Dhabi", "lat": 24.4539, "lon": 54.3773, "main": true}
+      ],
+      "text": "The US is *mediating*.",
+      "vo": "Ukraine's team is led by Rustem Umerov, Russia's by Kremlin aide Vladimir Medinsky. US envoys Steve Witkoff and Jared Kushner are mediating."
+    },
+    {
+      "type": "statement",
+      "text": ["Kyiv wants *security guarantees*.", "Moscow wants *all of Donbas*."],
+      "vo": "Kyiv's priorities include ending the fighting, security guarantees after the war, and prisoner exchanges. Russia still demands the whole Donbas region, and Ukraine refuses to give up land it holds."
+    },
+    {
+      "type": "timeline",
+      "title": "What comes next",
+      "items": [
+        {"when": "Tuesday", "what": "First day of talks"},
+        {"when": "Wednesday", "what": "Talks continue"},
+        {"when": "Next round", "what": "US wants Europe at the table"}
+      ],
+      "vo": "The three delegations met on Tuesday. They are due to meet again on Wednesday. For the next round, US officials reportedly want Europe at the table, but the Kremlin says the format stays three-way."
+    }
+  ],
+  "title": "Russia and Ukraine hold first US-brokered peace talks since February in Abu Dhabi",
+  "caption": "Russian and Ukrainian negotiators met in Abu Dhabi on Tuesday for their first US-brokered talks since February, with envoys Steve Witkoff and Jared Kushner mediating. Kyiv wants security guarantees and prisoner exchanges, while Moscow still demands all of Donbas. Talks continue on Wednesday, and the US reportedly wants Europe at the table for the next round.",
+  "hashtags": ["world", "news", "dailynews", "ukraine", "peacetalks"]
+}
