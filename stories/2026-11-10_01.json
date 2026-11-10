@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-10",
+  "edition": "morning",
+  "category": "world",
+  "source": "AP, Al Jazeera",
+  "voice": "af_heart",
+  "headline": {
+    "text": "Trump says Iran war is militarily over",
+    "context": "The US naval blockade of Iran stays in place.",
+    "vo": "President Donald Trump says the war with Iran is, militarily, effectively over. He spoke after talks with Qatar's prime minister at the White House on Monday."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Iran", "Qatar"],
+      "bbox": [43, 21, 63, 39],
+      "places": [
+        {"name": "Tehran", "lat": 35.6892, "lon": 51.3890, "main": true},
+        {"name": "Doha", "lat": 25.2854, "lon": 51.5310}
+      ],
+      "text": ["Qatar is *mediating* between the two sides.", "The US blockade *stays in place*."],
+      "vo": "Qatar has been mediating between Washington and Tehran. Trump said Gulf states, including Qatar, Saudi Arabia and the UAE, would prefer to keep the status quo. That means the US naval blockade of Iranian ports stays in place."
+    },
+    {
+      "type": "quote",
+      "quote": "The military action doesn't seem to be a very necessary thing, but we're locked and loaded",
+      "who": "Donald Trump",
+      "role": "US President",
+      "vo": "Trump said new strikes now seem unnecessary, but that US forces are ready if anything changes. He said there is a good chance the war could end. It began at the end of February."
+    },
+    {
+      "type": "statement",
+      "text": ["Iran wants the *blockade* lifted first.", "No deal has been *agreed*."],
+      "vo": "Iran wants the blockade and sanctions lifted before it negotiates. A senior Iranian security official dismissed reports of talks as fake news. Secretary of State Marco Rubio says no breakthrough is imminent."
+    }
+  ],
+  "title": "Trump says the war with Iran is militarily effectively over",
+  "caption": "After White House talks with Qatar's prime minister, President Trump said the war with Iran is militarily effectively over and new strikes seem unnecessary. The US naval blockade of Iranian ports continues. Iran wants the blockade and sanctions lifted before negotiating, and no deal has been agreed.",
+  "hashtags": ["world", "news", "dailynews", "iran", "trump"]
+}
