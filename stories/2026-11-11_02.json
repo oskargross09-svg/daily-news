@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-11",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Euronews",
+  "voice": "af_heart",
+  "say": {"Zelenskyy": "Zelensky"},
+  "headline": {
+    "text": "Russia and Ukraine agree large prisoner swap",
+    "context": "No breakthrough on territory in Abu Dhabi.",
+    "vo": "Russia and Ukraine have agreed to a large exchange of prisoners of war. It is the main result of two days of US-mediated talks in Abu Dhabi, which ended on Wednesday without a breakthrough on territory."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Ukraine", "Russia", "United Arab Emirates"],
+      "bbox": [22, 18, 62, 60],
+      "places": [
+        {"name": "Kyiv", "lat": 50.4501, "lon": 30.5234},
+        {"name": "Moscow", "lat": 55.7558, "lon": 37.6173},
+        {"name": "Abu Dhabi", "lat": 24.4539, "lon": 54.3773, "main": true}
+      ],
+      "text": "Both sides *confirmed* the deal.",
+      "vo": "Both delegations confirmed the agreement. US envoy Jared Kushner said the final numbers would be set on Thursday. No date for the exchange has been given."
+    },
+    {
+      "type": "statement",
+      "text": ["Territory is still the *main obstacle*.", "Russia wants Ukraine out of *Donbas*."],
+      "vo": "Territory remains the hardest issue. Russia still demands that Ukraine leave the parts of Donbas it holds, and neither side has shown a willingness to compromise, AP reports."
+    },
+    {
+      "type": "timeline",
+      "title": "What comes next",
+      "items": [
+        {"when": "Thursday", "what": "Swap numbers finalised"},
+        {"when": "Thursday", "what": "US envoys meet Putin"},
+        {"when": "Then", "what": "Talks with Zelenskyy in Dublin"}
+      ],
+      "vo": "On Thursday, the two sides are due to finalise the prisoner numbers. The same day, Kushner and Steve Witkoff travel to Moscow to meet President Vladimir Putin. They then plan to fly to Dublin to meet Ukraine's President Volodymyr Zelenskyy."
+    }
+  ],
+  "title": "Russia and Ukraine agree large prisoner swap as Abu Dhabi talks end without territory deal",
+  "caption": "Russia and Ukraine agreed to a large exchange of prisoners of war at the end of two days of US-mediated talks in Abu Dhabi, with the final numbers due on Thursday. There was no breakthrough on territory, which remains the main obstacle to a peace deal. US envoys Jared Kushner and Steve Witkoff travel to Moscow on Thursday to meet Vladimir Putin, then plan to meet Volodymyr Zelenskyy in Dublin.",
+  "hashtags": ["world", "news", "dailynews", "ukraine", "prisonerswap"]
+}
