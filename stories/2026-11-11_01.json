@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-11",
+  "edition": "morning",
+  "category": "economy",
+  "source": "CNBC, Yahoo Finance",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "US inflation rises faster than expected",
+    "context": "Consumer prices rose 0.4% in October.",
+    "vo": "US consumer prices rose zero point four percent in October, more than economists expected. It is the last inflation report before the Federal Reserve's December meeting."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "0.4%",
+      "label": "monthly rise in US consumer prices, official data shows",
+      "text": "Economists expected *0.3%*.",
+      "vo": "Economists had forecast zero point three percent. Core prices, without food and energy, also beat forecasts. There is no yearly figure, because last year's government shutdown stopped data collection."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Food prices rose *0.5%* in October.",
+        "Energy rose *0.7%*, after a September jump."
+      ],
+      "vo": "Food prices rose zero point five percent, and housing costs rose zero point three. Energy rose zero point seven percent, after jumping more than five percent in September."
+    },
+    {
+      "type": "timeline",
+      "title": "What comes next",
+      "items": [
+        {
+          "when": "September",
+          "what": "Fed raises interest rates"
+        },
+        {
+          "when": "Tuesday",
+          "what": "Prices rise faster"
+        },
+        {
+          "when": "Dec 8–9",
+          "what": "Next rate decision"
+        }
+      ],
+      "vo": "The Fed raised interest rates in September. On Tuesday, new data showed prices still rising faster than expected. Markets expect another hike on December ninth, and Fed governor Christopher Waller says a half-point move should be considered."
+    }
+  ],
+  "title": "US inflation rises faster than expected in October as Fed weighs another rate hike",
+  "caption": "US consumer prices rose 0.4% in October, above the 0.3% economists expected, with food up 0.5% and core prices also beating forecasts. It is the last inflation report before the Federal Reserve meets on December 8 and 9. Markets now expect another rate hike, and Fed governor Christopher Waller says a half-point move should be considered.",
+  "hashtags": [
+    "economy",
+    "news",
+    "dailynews",
+    "inflation",
+    "federalreserve"
+  ]
+}
