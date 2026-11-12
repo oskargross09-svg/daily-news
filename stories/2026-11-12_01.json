@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-12",
+  "edition": "morning",
+  "category": "world",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {
+    "Bundibugyo": "Boondee-boojo",
+    "Ituri": "Eetooree",
+    "Kivu": "Keevoo"
+  },
+  "headline": {
+    "text": "Congo's Ebola outbreak passes 11,000 cases",
+    "context": "It is the second largest Ebola outbreak on record.",
+    "vo": "Congo's Ebola outbreak has passed eleven thousand confirmed cases, government data shows. It is the largest in the country's history, and the second largest ever recorded."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Dem. Rep. Congo"
+      ],
+      "places": [
+        {
+          "name": "Kinshasa",
+          "lat": -4.4419,
+          "lon": 15.2663
+        },
+        {
+          "name": "Bunia",
+          "lat": 1.5593,
+          "lon": 30.2522,
+          "main": true
+        }
+      ],
+      "text": "*8 of 26* provinces are affected.",
+      "vo": "The virus has reached eight of Congo's twenty-six provinces. The hotspots are Ituri and North Kivu in the east, where armed conflict and attacks on health workers have slowed the response. Cases have also been confirmed in Kenya and Nigeria.",
+      "bbox": [
+        10,
+        -14,
+        34,
+        6
+      ]
+    },
+    {
+      "type": "stat",
+      "number": "5,387",
+      "label": "deaths so far, according to government data",
+      "text": "Nearly *half* of those infected have died.",
+      "vo": "Five thousand three hundred and eighty-seven people have died, nearly half of those infected. Only the West African outbreak of 2014 to 2016 was larger."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "There is no approved *vaccine* yet.",
+        "Two vaccine candidates will be *tested*."
+      ],
+      "vo": "This outbreak is caused by the rare Bundibugyo strain, which has no approved vaccine or treatment. The World Health Organization has backed trials of two vaccine candidates."
+    }
+  ],
+  "title": "Congo's Ebola outbreak passes 11,000 cases, second largest on record",
+  "caption": "Congo's Ebola outbreak has passed 11,042 confirmed cases and 5,387 deaths, according to government data, making it the second largest Ebola outbreak ever recorded. The Bundibugyo strain has no approved vaccine, and fighting in eastern Congo is slowing the response. The WHO has backed trials of two vaccine candidates.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "ebola",
+    "congo"
+  ]
+}
