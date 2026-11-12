@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-12",
+  "edition": "evening",
+  "category": "politics",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {
+    "Gibran": "Gheebrahn",
+    "Rakabuming": "Rahkabooming",
+    "Subianto": "Soobiyanto",
+    "Prabowo": "Prahbowo"
+  },
+  "headline": {
+    "text": "Indonesia's vice president resigns",
+    "context": "Gibran Rakabuming Raka, 39, quit over a court dispute.",
+    "vo": "Indonesia's vice president, Gibran Rakabuming Raka, has resigned after a dispute over his school qualifications. The thirty-nine-year-old is the eldest son of former president Joko Widodo."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Indonesia"
+      ],
+      "places": [
+        {
+          "name": "Jakarta",
+          "lat": -6.2088,
+          "lon": 106.8456,
+          "main": true
+        }
+      ],
+      "text": "He handed his letter to *parliament* on Thursday.",
+      "vo": "He handed his resignation letter to parliament in Jakarta on Thursday. President Prabowo Subianto accepted it and thanked him for his work. The move comes amid a growing rift between Prabowo and Widodo.",
+      "bbox": [
+        98,
+        -11,
+        122,
+        3
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "How it happened",
+      "items": [
+        {
+          "when": "October",
+          "what": "Court voids his certificate"
+        },
+        {
+          "when": "Nov 11",
+          "what": "Impeachment bid filed"
+        },
+        {
+          "when": "Nov 12",
+          "what": "Gibran resigns"
+        }
+      ],
+      "vo": "Last month, the Supreme Court ruled invalid a school certificate he had used to run for office. On Wednesday, about one hundred and twenty lawmakers filed a petition to impeach him. On Thursday, he stepped down."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Parliament has *60 days* to pick a successor.",
+        "The president will name *two* candidates."
+      ],
+      "vo": "There will be no new election. Parliament now has up to sixty days to choose a new vice president, from two candidates put forward by President Prabowo."
+    }
+  ],
+  "title": "Indonesia's vice president Gibran Rakabuming Raka resigns after court dispute",
+  "caption": "Indonesia's vice president Gibran Rakabuming Raka, the son of former president Joko Widodo, has resigned after courts ruled against the school documents he used to run for office and about 120 lawmakers moved to impeach him. President Prabowo Subianto accepted the resignation. Parliament now has up to 60 days to choose a successor from two candidates nominated by the president.",
+  "hashtags": [
+    "politics",
+    "news",
+    "dailynews",
+    "indonesia",
+    "gibran"
+  ]
+}
