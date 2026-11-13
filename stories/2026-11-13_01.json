@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-13",
+  "edition": "morning",
+  "category": "tech",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Nvidia chief Jensen Huang resigns",
+    "context": "Finance chief Colette Kress takes over for now.",
+    "vo": "Jensen Huang has resigned as chief executive of Nvidia, the chipmaker at the centre of the AI boom. He also left its board, effective immediately, the company said on Thursday."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "33",
+      "label": "years leading Nvidia, which he co-founded",
+      "text": "Shares closed down *4.3%* on Thursday.",
+      "vo": "Huang co-founded Nvidia in 1993 and led it for thirty-three years. The company gave no reason for his departure. Its shares closed down about four percent on Thursday."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Huang admitted an *affair* on Sunday.",
+        "China *denies* reported spying claims."
+      ],
+      "vo": "On Sunday, Huang admitted being unfaithful to his wife. US media reported that one relationship was with a woman suspected of spying for China, which Beijing denies. Nvidia's board says it has no reason to believe national security was compromised."
+    },
+    {
+      "type": "quote",
+      "quote": "I am committed to building on the extraordinary foundation Jensen created over the last 33 years.",
+      "who": "Colette Kress",
+      "role": "Interim CEO, Nvidia",
+      "vo": "Finance chief Colette Kress is now interim chief executive, while the board searches for a permanent successor. Nvidia reports its quarterly results next Tuesday."
+    }
+  ],
+  "title": "Nvidia CEO Jensen Huang resigns after 33 years, Colette Kress named interim chief",
+  "caption": "Jensen Huang has resigned as chief executive and board member of Nvidia, the company he co-founded in 1993. Nvidia gave no reason; Huang admitted an affair on Sunday, and US media reported links to a woman suspected of spying for China, which Beijing denies. Finance chief Colette Kress is interim CEO while the board searches for a permanent successor.",
+  "hashtags": [
+    "tech",
+    "news",
+    "dailynews",
+    "nvidia",
+    "jensenhuang"
+  ]
+}
