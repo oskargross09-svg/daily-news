@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-13",
+  "edition": "evening",
+  "category": "tech",
+  "source": "AP, ABC News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Microsoft outage enters a second day",
+    "context": "Outlook, Teams and Copilot were hit worldwide.",
+    "vo": "A global Microsoft outage has stretched into a second day. Outlook email, Teams and Copilot have been disrupted for businesses and governments around the world."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "130K",
+      "label": "Outlook problem reports at the peak, Downdetector says",
+      "text": "Problems began on *Thursday*.",
+      "vo": "At the peak on Thursday, about one hundred and thirty thousand users reported problems with Outlook to the tracking site Downdetector. Microsoft says more than four hundred million people use its Microsoft 365 apps."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Japan says *government* systems were affected.",
+        "UK police could not take *online* reports."
+      ],
+      "vo": "Japan said government computer systems were affected, and government agencies in New Zealand lost email. In Britain, police forces could not receive crime reports online."
+    },
+    {
+      "type": "quote",
+      "quote": "They don't believe they are dealing with a cyberattack.",
+      "who": "Tony Burke",
+      "role": "Home Affairs Minister, Australia",
+      "vo": "Microsoft says it has no indication of malicious activity, and has not named a cause yet. On Friday, it reported encouraging recovery progress, but some users still faced delayed emails."
+    }
+  ],
+  "title": "Global Microsoft outage hits Outlook, Teams and Copilot for a second day",
+  "caption": "A Microsoft outage that began on Thursday disrupted Outlook, Teams and Copilot for businesses and governments worldwide, with about 130,000 Outlook problem reports on Downdetector at its peak. Microsoft says it has no indication of malicious activity and has not yet named a cause. On Friday it reported encouraging recovery progress, though some users still faced delayed emails.",
+  "hashtags": [
+    "tech",
+    "news",
+    "dailynews",
+    "microsoft",
+    "outage"
+  ]
+}
