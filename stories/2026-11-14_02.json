@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-14",
+  "edition": "evening",
+  "category": "tech",
+  "source": "AP, ABC News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "US flights recover after nationwide ground stop",
+    "context": "Air traffic systems failed across the US on Friday.",
+    "vo": "Airlines in the United States are still recovering from a rare nationwide ground stop. On Friday, departures across the country were halted after air traffic control systems failed."
+  },
+  "beats": [
+    {
+      "type": "timeline",
+      "title": "How it happened",
+      "items": [
+        {"when": "Fri 3:54 pm", "what": "FAA halts all departures"},
+        {"when": "Fri 8:15 pm", "what": "Ground stop is lifted"},
+        {"when": "Saturday", "what": "Airlines rebook passengers"}
+      ],
+      "note": "Times are US Eastern",
+      "vo": "The Federal Aviation Administration ordered the stop just before four in the afternoon, Eastern time, citing safety. It was lifted after more than four hours. On Saturday, airlines worked to rebook stranded passengers."
+    },
+    {
+      "type": "stat",
+      "number": "2,000+",
+      "label": "flights cancelled in the US on Saturday, FlightAware data shows",
+      "text": "Delta and United are waiving *change fees*.",
+      "vo": "More than two thousand flights were cancelled in the US on Saturday, according to FlightAware data. Delta and United are letting affected passengers change flights without fees."
+    },
+    {
+      "type": "quote",
+      "quote": "We didn't think we would have this kind of outage.",
+      "who": "Sean Duffy",
+      "role": "US Transportation Secretary",
+      "vo": "Transportation Secretary Sean Duffy said switches and routers in old equipment were overloaded with data. Officials say there is no sign of a cyberattack. Duffy expects normal operations before Thanksgiving."
+    }
+  ],
+  "title": "US flights recover after a nationwide ground stop caused by an air traffic system failure",
+  "caption": "A failure in US air traffic control systems led the FAA to halt departures nationwide for more than four hours on Friday. More than 2,000 US flights were cancelled on Saturday as airlines rebooked stranded passengers. Transportation Secretary Sean Duffy blamed overloaded old equipment, and officials say there is no sign of a cyberattack.",
+  "hashtags": [
+    "tech",
+    "news",
+    "dailynews",
+    "flights",
+    "faa"
+  ]
+}
