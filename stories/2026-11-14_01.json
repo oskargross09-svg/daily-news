@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-14",
+  "edition": "morning",
+  "category": "world",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Iran says it hit a US radar, US denies it",
+    "context": "Tensions rise again around the Strait of Hormuz.",
+    "vo": "Tensions are rising again around the Strait of Hormuz. Iran and the United States are trading claims over new attacks in the Gulf."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Iran",
+        "Bahrain"
+      ],
+      "bbox": [
+        47,
+        21,
+        62,
+        31.5
+      ],
+      "places": [
+        {
+          "name": "Bahrain",
+          "lat": 26.2285,
+          "lon": 50.586,
+          "main": true
+        },
+        {
+          "name": "Sirik",
+          "lat": 26.5155,
+          "lon": 57.1036
+        }
+      ],
+      "text": "Iran says it struck a US radar in *Bahrain*.",
+      "vo": "Iran's Revolutionary Guards said on Friday they destroyed a US early-warning radar in Bahrain. They said it was a response to a strike on a telecom tower in Sirik, in southern Iran. The claim could not be independently verified."
+    },
+    {
+      "type": "quote",
+      "quote": "The IRGC launched two one-way attack drones toward Bahrain and both were shot down by U.S. forces.",
+      "who": "US Central Command",
+      "role": "Statement on X",
+      "vo": "The US military denied it. Central Command said two Iranian drones were shot down, with no injuries or damage."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Iran says a gas tanker hit a *mine*.",
+        "Trump says he would use *force* again."
+      ],
+      "vo": "Iran also said a tanker carrying liquefied gas hit a mine in the strait, without naming the ship. President Trump said the US totally controls the strait. He said he would have no hesitation in using force again."
+    }
+  ],
+  "title": "Iran says it struck a US radar in Bahrain, the US military denies it",
+  "caption": "Iran's Revolutionary Guards say they destroyed a US early-warning radar in Bahrain after a strike on southern Iran; US Central Command says two Iranian drones were shot down, with no injuries or damage. Iran also says an LNG tanker hit a mine in the Strait of Hormuz. President Trump says the US controls the strait and would not hesitate to use force again.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "iran",
+    "hormuz"
+  ]
+}
