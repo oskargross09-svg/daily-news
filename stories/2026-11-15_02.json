@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-15",
+  "edition": "evening",
+  "category": "tech",
+  "source": "Space.com, Al Jazeera",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "SpaceX catches its Starship spacecraft",
+    "context": "The tower's arms grabbed the ship back from orbit.",
+    "vo": "SpaceX has caught its Starship spacecraft with the arms of its launch tower for the first time. The upper stage came back from orbit on Saturday and was grabbed in mid-air in Texas."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["United States of America", "Mexico"],
+      "bbox": [-104, 21, -89, 33],
+      "places": [
+        {"name": "Houston", "lat": 29.7604, "lon": -95.3698},
+        {"name": "Starbase", "lat": 25.9972, "lon": -97.1561, "main": true}
+      ],
+      "text": "Launched and caught at *Starbase*, Texas",
+      "vo": "Flight fifteen lifted off from SpaceX's Starbase site in south Texas on Friday. It released twenty-six Starlink internet satellites. The Super Heavy booster called off its own catch and came down in the sea."
+    },
+    {
+      "type": "stat",
+      "number": "22",
+      "label": "hours in orbit before the catch",
+      "text": "Caught by the tower's *chopstick* arms",
+      "vo": "The ship spent about twenty-two hours in orbit. It then came back through the atmosphere, slowed down with its engines, and the tower's arms caught it above the launch pad."
+    },
+    {
+      "type": "quote",
+      "quote": "We caught a Starship, and now everything changes.",
+      "who": "Dan Huot",
+      "role": "SpaceX webcast host",
+      "vo": "SpaceX had caught boosters before, but never the ship. Reusing both stages could make spaceflight much cheaper. NASA plans to use a version of Starship to land astronauts on the Moon."
+    }
+  ],
+  "title": "SpaceX catches its Starship spacecraft with the launch tower for the first time",
+  "caption": "SpaceX caught the upper stage of its Starship rocket with the arms of its launch tower on Saturday, after about 22 hours in orbit. It is the first time the ship has been recovered this way. Reusing both stages could make spaceflight much cheaper, and NASA plans to use a version of Starship as a Moon lander.",
+  "hashtags": ["tech", "news", "dailynews", "spacex", "starship"]
+}
