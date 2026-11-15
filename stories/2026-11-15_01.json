@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-15",
+  "edition": "morning",
+  "category": "politics",
+  "source": "AP, Al Jazeera",
+  "voice": "af_heart",
+  "say": {"Xi": "Shee", "Putin": "Pootin"},
+  "headline": {
+    "text": "Trump, Xi and Putin to meet in China",
+    "context": "First talks between all three leaders set for Thursday.",
+    "vo": "Donald Trump, Xi Jinping and Vladimir Putin plan to meet in China this week. The White House and the Kremlin have confirmed the talks, the first ever between the three leaders."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["China"],
+      "bbox": [100, 15, 128, 43],
+      "places": [
+        {"name": "Beijing", "lat": 39.9042, "lon": 116.4074},
+        {"name": "Shenzhen", "lat": 22.5431, "lon": 114.0579, "main": true}
+      ],
+      "text": "APEC summit in *Shenzhen*, November 18 to 19",
+      "vo": "The meeting is set for Thursday in Shenzhen, on the sidelines of the Asia-Pacific Economic Cooperation summit. Trump will first hold talks with Xi."
+    },
+    {
+      "type": "quote",
+      "quote": "He will discuss the reduction of nuclear weapons in the world.",
+      "who": "Olivia Wales",
+      "role": "White House spokesperson",
+      "vo": "The White House says nuclear weapons will be the focus. The last major arms control treaty between the US and Russia, New START, expired in February."
+    },
+    {
+      "type": "statement",
+      "text": ["*Iran* is on the agenda, Ukraine is not", "No deal is expected, US officials say"],
+      "vo": "US officials say Iran will be discussed, but Russia's war in Ukraine will not. They do not expect an agreement and call the meeting a first step."
+    }
+  ],
+  "title": "Trump, Xi and Putin to hold first three-way meeting in China this week",
+  "caption": "The White House and the Kremlin have confirmed that Donald Trump, Xi Jinping and Vladimir Putin will meet on Thursday in Shenzhen, on the sidelines of the APEC summit. It is the first meeting between the three leaders, and the White House says nuclear arms reduction will be the focus. US officials say Iran will be discussed but Ukraine will not, and they do not expect an agreement.",
+  "hashtags": ["politics", "news", "dailynews", "apec", "nuclear"]
+}
