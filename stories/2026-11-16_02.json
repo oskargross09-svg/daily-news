@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-16",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Reuters",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Ukraine launches its largest drone attack on Russia",
+    "context": "Drones also hit the bridge to annexed Crimea.",
+    "vo": "Ukraine has carried out its largest drone attack on Russia since the war began, Russia's defence ministry says. Drones also hit the bridge linking Russia to annexed Crimea."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "1,336",
+      "label": "drones shot down overnight, Russia's defence ministry says",
+      "text": "About *600* flew toward Moscow, its mayor says",
+      "vo": "The ministry said its air defences shot down one thousand three hundred and thirty-six drones overnight, more than in the previous record attack in October. Moscow's mayor said around six hundred of them flew toward the capital."
+    },
+    {
+      "type": "map",
+      "focus": ["Ukraine", "Russia"],
+      "bbox": [29.0, 43.6, 41.5, 56.6],
+      "places": [
+        {"name": "Moscow", "lat": 55.7558, "lon": 37.6173},
+        {"name": "Kyiv", "lat": 50.4501, "lon": 30.5234},
+        {"name": "Azov", "lat": 47.1078, "lon": 39.4165},
+        {"name": "Crimean bridge", "lat": 45.3075, "lon": 36.5115, "main": true}
+      ],
+      "labels": [
+        {"name": "Black Sea", "lat": 43.9, "lon": 31.6}
+      ],
+      "text": "Drones hit the *Crimean bridge*",
+      "vo": "Crimea's Russian-installed leader said the bridge was hit and road traffic was restricted. The Kremlin said the damage was minor. Officials reported people injured in the Krasnodar and Rostov regions."
+    },
+    {
+      "type": "statement",
+      "text": ["Kyiv says *55%* of Russian refining is down", "Russia has not commented"],
+      "vo": "On Sunday, President Zelensky said Ukrainian strikes had disabled more than half of Russia's oil refining capacity. Russia has not commented, and the claim could not be independently verified."
+    }
+  ],
+  "title": "Ukraine launches its largest drone attack on Russia and hits the Crimean bridge",
+  "caption": "Russia's defence ministry said its air defences shot down 1,336 Ukrainian drones overnight, the largest attack since the war began, and drones also hit the bridge linking Russia to annexed Crimea. Moscow's mayor said about 600 drones flew toward the capital, and road traffic on the bridge was restricted. The attack comes days before Trump, Xi and Putin are expected to meet in China.",
+  "hashtags": ["world", "news", "dailynews", "ukraine", "russia"]
+}
