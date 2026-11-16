@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-16",
+  "edition": "morning",
+  "category": "world",
+  "source": "Reuters, BBC",
+  "voice": "af_heart",
+  "say": {
+    "Houthis": "Hoothees",
+    "Houthi": "Hoothee",
+    "Dhubab": "Doobab",
+    "Taiz": "Ta-eez"
+  },
+  "headline": {
+    "text": "Houthis left in control near Bab el-Mandeb strait",
+    "context": "Saudi-backed forces pulled back to defend Aden.",
+    "vo": "Saudi-backed forces in Yemen say they have pulled out of an area overlooking the Bab el-Mandeb strait. That leaves the Iran-aligned Houthis in control of land along one of the world's busiest shipping lanes."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Yemen"
+      ],
+      "bbox": [
+        42.9,
+        12.2,
+        45.3,
+        13.9
+      ],
+      "places": [
+        {
+          "name": "Dhubab",
+          "lat": 12.94,
+          "lon": 43.41,
+          "main": true
+        },
+        {
+          "name": "Taiz",
+          "lat": 13.5795,
+          "lon": 44.0209
+        },
+        {
+          "name": "Aden",
+          "lat": 12.7855,
+          "lon": 45.0187
+        }
+      ],
+      "labels": [
+        {
+          "name": "Red Sea",
+          "lat": 13.5,
+          "lon": 42.95
+        },
+        {
+          "name": "Gulf of Aden",
+          "lat": 12.35,
+          "lon": 44.4
+        }
+      ],
+      "text": "Troops left *Dhubab* and the strait area",
+      "vo": "The Southern Armed Forces announced on Sunday that they were withdrawing from Dhubab airport and the area west of Taiz. Their troops are moving east to protect the city of Aden.",
+      "max_scale": 18000
+    },
+    {
+      "type": "timeline",
+      "title": "How it unfolded",
+      "items": [
+        {
+          "when": "Sep",
+          "what": "Houthis push south on coast"
+        },
+        {
+          "when": "Oct",
+          "what": "Government retakes Dhubab"
+        },
+        {
+          "when": "Sun",
+          "what": "Southern forces pull back"
+        }
+      ],
+      "vo": "In September, the Houthis pushed south along the Red Sea coast. In October, government forces said they had recaptured Dhubab. On Sunday, they announced they were pulling back again."
+    },
+    {
+      "type": "quote",
+      "quote": "This step is taken based on the priority of securing the capital, Aden",
+      "who": "Southern Armed Forces",
+      "role": "Statement on Sunday",
+      "vo": "The move gives the Houthis more leverage over the strait, which links the Red Sea to the Gulf of Aden. The group has been attacking Saudi Arabia as part of the wider war with Iran."
+    }
+  ],
+  "title": "Yemen: Houthis left in control of land overlooking the Bab el-Mandeb strait",
+  "caption": "Saudi-backed southern forces in Yemen said on Sunday they were withdrawing from Dhubab airport and the Bab el-Mandeb area to defend Aden, leaving the Iran-aligned Houthis in control of territory overlooking the strait. The waterway links the Red Sea to the Gulf of Aden and is a key route for global shipping. The Houthis have been attacking Saudi Arabia as part of the wider war with Iran.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "yemen",
+    "redsea"
+  ]
+}
