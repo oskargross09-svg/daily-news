@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-17",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, ABC News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Ukraine strike brings down part of Crimean bridge",
+    "context": "The road link to Crimea is cut, Ukraine's army says.",
+    "vo": "A Ukrainian strike has brought down part of the bridge linking Russia to annexed Crimea. It was the second attack on the bridge in two nights, and President Zelensky called it an unprecedented operation."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Ukraine",
+        "Russia"
+      ],
+      "bbox": [
+        31.5,
+        43.4,
+        40.0,
+        47.8
+      ],
+      "places": [
+        {
+          "name": "Sevastopol",
+          "lat": 44.6167,
+          "lon": 33.5254
+        },
+        {
+          "name": "Crimean bridge",
+          "lat": 45.3075,
+          "lon": 36.5115,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Black Sea",
+          "lat": 43.9,
+          "lon": 34.2
+        },
+        {
+          "name": "Sea of Azov",
+          "lat": 46.3,
+          "lon": 36.6
+        }
+      ],
+      "text": "The *road section* collapsed, Kyiv says",
+      "vo": "Ukraine's military says an arch and a section of the road bridge collapsed, cutting the road link. The rail line is still standing, but damaged. Russian-installed officials suspended traffic on the bridge."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Ukraine used *drones and missiles*",
+        "Russian missiles hit *Kyiv* overnight"
+      ],
+      "vo": "Zelensky said Ukrainian-made drones and missiles were used, after weeks of planning. Overnight, Russian missiles hit Kyiv, killing at least two people, officials say. Two of the city's main bridges were closed."
+    },
+    {
+      "type": "quote",
+      "quote": "There is no doubt that the bridge will be restored and will be even better than it was before.",
+      "who": "Dmitry Peskov",
+      "role": "Kremlin spokesman",
+      "vo": "The Kremlin says the bridge will be rebuilt. It opened in 2018 and is a key supply route for Russian forces in Crimea."
+    }
+  ],
+  "title": "Ukraine strike brings down part of the bridge between Russia and Crimea",
+  "caption": "A Ukrainian strike brought down part of the road section of the bridge linking Russia to annexed Crimea, Ukraine's military says, in the second attack on the bridge in two nights. President Zelensky called it an unprecedented operation, while the Kremlin says the bridge will be rebuilt. Overnight, Russian missiles hit Kyiv, killing at least two people.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "ukraine",
+    "crimea"
+  ]
+}
