@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-17",
+  "edition": "morning",
+  "category": "economy",
+  "source": "Reuters, AP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Tech stocks fall sharply before Nvidia results",
+    "context": "Worries about AI weighed on Wall Street on Monday.",
+    "vo": "US stocks fell sharply on Monday, led by technology companies, as worries about artificial intelligence grew. Chipmaker Nvidia reports its quarterly results on Tuesday."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "2.5%",
+      "label": "fall in the tech-heavy Nasdaq index on Monday",
+      "text": "The S&P 500 lost *1.9%*",
+      "vo": "The tech-heavy Nasdaq fell two and a half percent. The broader S and P five hundred lost almost two percent, and the Dow dropped more than seven hundred points."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Nvidia shares fell another *4.1%*",
+        "New US rules limit *remote access* to AI chips"
+      ],
+      "vo": "Nvidia has faced a leadership crisis since chief executive Jensen Huang resigned last week. Its shares fell another four percent. On Monday, the Trump administration also issued new rules restricting remote access to advanced US chips."
+    },
+    {
+      "type": "quote",
+      "quote": "The market was already worried about this risk before what happened at Nvidia.",
+      "who": "Zhiwei Zhang",
+      "role": "President, Pinpoint Asset Management",
+      "vo": "Analysts say investors were already worried that AI stocks had risen too far. Nvidia's results come after US markets close on Tuesday, and investors will be watching closely."
+    }
+  ],
+  "title": "US tech stocks fall sharply as Nvidia turmoil and AI worries weigh on Wall Street",
+  "caption": "US stocks fell sharply on Monday, with the Nasdaq down 2.5% and the S&P 500 down 1.9%, led by technology companies. Nvidia shares fell 4.1% as the chipmaker deals with the resignation of chief executive Jensen Huang, and new US rules restrict remote access to advanced chips. Nvidia reports its quarterly results after the US market closes on Tuesday.",
+  "hashtags": ["economy", "news", "dailynews", "nvidia", "stocks"]
+}
