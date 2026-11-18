@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-18",
+  "edition": "morning",
+  "category": "world",
+  "source": "AFP, Al Jazeera",
+  "voice": "af_heart",
+  "say": {
+    "Xi": "Shee",
+    "Putin": "Pootin",
+    "Isa": "Eesa"
+  },
+  "headline": {
+    "text": "US strikes Iranian island after attack on Bahrain",
+    "context": "Kuwait reports drone attacks overnight.",
+    "vo": "US jets have struck a missile launch site on Iran's Qeshm Island, a US official says. It came after Iran said it sent drones at a US radar in Bahrain."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Iran",
+        "Bahrain",
+        "Kuwait"
+      ],
+      "bbox": [
+        46.5,
+        23.5,
+        61.5,
+        31.0
+      ],
+      "places": [
+        {
+          "name": "Kuwait City",
+          "lat": 29.3759,
+          "lon": 47.9774
+        },
+        {
+          "name": "Bahrain",
+          "lat": 25.9184,
+          "lon": 50.5906
+        },
+        {
+          "name": "Qeshm Island",
+          "lat": 26.83,
+          "lon": 55.9,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Persian Gulf",
+          "lat": 26.95,
+          "lon": 51.5
+        }
+      ],
+      "text": "US jets hit a missile site on *Qeshm*",
+      "vo": "Iranian state media reported five to six explosions on the island. A local official said homes and vital infrastructure were not damaged."
+    },
+    {
+      "type": "timeline",
+      "title": "How it unfolded",
+      "items": [
+        {
+          "when": "Tue",
+          "what": "Drones aimed at Bahrain base"
+        },
+        {
+          "when": "Later",
+          "what": "US jets strike Qeshm"
+        },
+        {
+          "when": "Night",
+          "what": "Kuwait reports drone attacks"
+        }
+      ],
+      "vo": "On Tuesday, Iran's Revolutionary Guards sent drones at Sheikh Isa air base, and the US military says they were intercepted without damage. Later that day, US jets hit a Guards missile site on Qeshm. Overnight, Kuwait's army said its air defences were countering hostile drone attacks."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Iran held talks in *Oman* on shipping",
+        "Trump meets Xi and Putin on *Thursday*"
+      ],
+      "vo": "Iran's foreign minister held talks in Oman on shipping and diplomatic options. On Thursday, Trump is due to meet Xi Jinping and Vladimir Putin in China, with the Iran war on the agenda."
+    }
+  ],
+  "title": "US strikes Iranian missile site on Qeshm Island after drone attack on Bahrain",
+  "caption": "US jets struck a Revolutionary Guards missile launch site on Iran's Qeshm Island, a US official says, after Iran said it sent drones at a US radar in Bahrain. The US military says the drones were intercepted without damage, and Kuwait reported drone attacks overnight. Trump is due to meet Xi Jinping and Vladimir Putin in China on Thursday, with the Iran war on the agenda.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "iran",
+    "bahrain"
+  ]
+}
