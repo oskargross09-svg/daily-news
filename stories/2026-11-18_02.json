@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-18",
+  "edition": "evening",
+  "category": "politics",
+  "source": "ABC News, Keystone-SDA",
+  "voice": "af_heart",
+  "say": {
+    "Xi": "Shee",
+    "Putin": "Pootin",
+    "Shenzhen": "Shen-jen"
+  },
+  "headline": {
+    "text": "Xi welcomes Trump to China ahead of talks with Putin",
+    "context": "The three leaders meet in Shenzhen on Thursday.",
+    "vo": "Chinese President Xi Jinping has welcomed Donald Trump at the foot of Air Force One in Shenzhen, and they embraced. It comes before the first three-way talks with Vladimir Putin."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["China", "Philippines"],
+      "bbox": [104.0, 9.0, 128.0, 31.0],
+      "places": [
+        {"name": "Manila", "lat": 14.5995, "lon": 120.9842},
+        {"name": "Shenzhen", "lat": 22.5431, "lon": 114.0579, "main": true}
+      ],
+      "route": ["Manila", "Shenzhen"],
+      "labels": [{"name": "South China Sea", "lat": 16.0, "lon": 112.5}],
+      "text": "Trump flew in from *Manila* for the APEC summit",
+      "vo": "Trump arrived from the Philippines for the summit of twenty-one Asia-Pacific economies. Putin had landed earlier the same day."
+    },
+    {
+      "type": "timeline",
+      "title": "How the day unfolded",
+      "items": [
+        {"when": "Earlier", "what": "Xi and Putin hold talks"},
+        {"when": "Arrival", "what": "Xi greets Trump at the plane"},
+        {"when": "Evening", "what": "Trump and Putin shake hands"}
+      ],
+      "vo": "On Wednesday, Xi and Putin held talks in Shenzhen. Xi then met Trump at his plane, which he did not do on Trump's visit to Beijing in May. At the leaders' group photo, Trump and Putin shook hands, their first meeting since Alaska in August 2025."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Thursday: talks on *nuclear arms*, Iran and Ukraine",
+        "US officials expect *no agreements* yet"
+      ],
+      "vo": "On Thursday, the three leaders are due to meet at Kylin Villa in Shenzhen. Trump wants to discuss cutting nuclear weapons. Iran and Russia's war in Ukraine are also expected to come up. US officials say no agreements are expected yet."
+    }
+  ],
+  "title": "Xi welcomes Trump in Shenzhen ahead of first three-way talks with Putin",
+  "caption": "Chinese President Xi Jinping greeted Donald Trump at his plane in Shenzhen for the APEC summit, and Trump and Vladimir Putin shook hands at the leaders' photo. The three leaders are due to hold their first three-way talks on Thursday. Nuclear arms control, Iran and the war in Ukraine are expected on the agenda, but US officials say no agreements are expected yet.",
+  "hashtags": ["politics", "news", "dailynews", "apec", "china"]
+}
