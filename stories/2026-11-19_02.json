@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-19",
+  "edition": "evening",
+  "category": "politics",
+  "source": "dpa, Xinhua",
+  "voice": "af_heart",
+  "say": {
+    "Xi": "Shee",
+    "Putin": "Pootin",
+    "Shenzhen": "Shen-jen"
+  },
+  "headline": {
+    "text": "Trump, Xi and Putin agree to talks on nuclear risks",
+    "context": "The three leaders met together for the first time.",
+    "vo": "The leaders of the United States, China and Russia have agreed to hold talks on reducing nuclear risks. Donald Trump, Xi Jinping and Vladimir Putin met in Shenzhen on Thursday, their first meeting as a trio."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "4",
+      "label": "points in the leaders' joint declaration",
+      "text": "UN reform, oil supply, courts and *nuclear* risks",
+      "vo": "Afterwards, they issued a four-point joint declaration, published by Chinese state media. They plan to push for reform of the United Nations and to raise the supply of petroleum products. They say the International Criminal Court must not abuse its powers."
+    },
+    {
+      "type": "quote",
+      "quote": "A nuclear war cannot be won and must never be fought",
+      "who": "Joint declaration",
+      "role": "China, Russia and the United States",
+      "vo": "On nuclear weapons, the three restate that a nuclear war cannot be won. They agree to a dialogue on reducing nuclear risks and stopping their spread."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "No targets for cutting *nuclear arms*",
+        "Ukraine is *not mentioned* in the text"
+      ],
+      "vo": "But the declaration sets no targets or timetable for cutting nuclear weapons. The war in Ukraine is not mentioned. No dates for the nuclear talks have been given."
+    }
+  ],
+  "title": "Trump, Xi and Putin agree to talks on nuclear risks after first three-way meeting",
+  "caption": "Donald Trump, Xi Jinping and Vladimir Putin met together for the first time in Shenzhen, China, on the sidelines of the APEC summit. In a four-point joint declaration they agreed to a dialogue on reducing nuclear risks and stopping the spread of nuclear weapons, and called for UN reform and more petroleum supply. The text sets no targets for cutting nuclear arms and does not mention the war in Ukraine.",
+  "hashtags": ["politics", "news", "dailynews", "nuclear", "apec"]
+}
