@@ -14,7 +14,10 @@ jobs:
           python-version: "3.12"
 
       - name: Abhängigkeiten installieren
-        run: pip install google-api-python-client google-auth
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install google-api-python-client google-auth
 
       - name: Kurzes Testvideo erzeugen
         run: |
