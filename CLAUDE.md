@@ -71,6 +71,8 @@ python3 pipeline/publish.py stories/<name>.json
 ```
 This renders the MP4 (~3 min), uploads it, pushes `videos/<name>.json`; a GitHub Action then schedules it in Buffer for
 06:00 / 18:00 London on TikTok, Instagram and YouTube, and the script waits for the result.
+  YouTube is uploaded directly through the YouTube API (`scripts/youtube.py`; YouTube itself publishes at the scheduled time) once the secrets
+  `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN` are set. TikTok and Instagram still go through Buffer.
 - If it is already later than 15 minutes before the slot, add `--now` (publishes immediately).
 - `RESULT: OK` → done. Finish with a 2-line summary (story + scheduled time).
 - `RESULT: FAILED` / `UNKNOWN` or any step you cannot fix → retry once; if it still fails, send a push notification to the
@@ -83,4 +85,4 @@ Never post anything else, never delete posts, never change workflows or secrets 
 - `pipeline/` – make_video.py (story → MP4), publish.py, build_page.py (layouts), engine.js/map.js (animation), tts.py (Kokoro voice), music.py
 - `stories/` – one JSON per edition · `videos/` – Buffer job files (trigger `.github/workflows/publish.yml`)
 - branch `media` – the MP4 files (cleaned weekly) · branch `bot-logs` – results of the Buffer workflow
-- `config/channels.json` – Buffer channel IDs · secret `BUFFER_API_KEY` (GitHub Actions)
+- `config/channels.json` – Buffer channel IDs · secrets `BUFFER_API_KEY`, `YOUTUBE_*` (GitHub Actions)
