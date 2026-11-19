@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-19",
+  "edition": "morning",
+  "category": "economy",
+  "source": "Federal Reserve, Reuters",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "US central bank signals more interest rate rises",
+    "context": "Almost all Fed officials see further hikes as likely.",
+    "vo": "The US Federal Reserve is signalling more interest rate rises. Minutes from its October meeting, released on Wednesday, show almost all officials expect further increases."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "4%",
+      "label": "top of the Fed's key rate range, held in October",
+      "text": "*Two* officials voted against the decision",
+      "vo": "In October, the Fed kept its key rate between three point seven five and four percent. The vote was ten to two, and some officials called it a close call. Inflation has stayed higher than the Fed wants."
+    },
+    {
+      "type": "timeline",
+      "title": "How we got here",
+      "items": [
+        {
+          "when": "Sept",
+          "what": "Fed raises rates"
+        },
+        {
+          "when": "Oct",
+          "what": "Rates held, vote 10 to 2"
+        },
+        {
+          "when": "Nov 18",
+          "what": "Minutes signal more rises"
+        },
+        {
+          "when": "Dec",
+          "what": "Next rate decision"
+        }
+      ],
+      "vo": "In September, the Fed raised its key rate. In October, it held rates in a split vote. On Wednesday, the minutes pointed to more rises. The next decision is due in December."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Gold fell about *3%* to a one-year low",
+        "Higher rates make *loans* more expensive"
+      ],
+      "vo": "Gold fell about three percent on Wednesday to its lowest level in more than a year, Reuters reports. Officials also flagged price risks from spending on artificial intelligence. Higher rates make loans and mortgages more expensive."
+    }
+  ],
+  "title": "US Federal Reserve signals more interest rate rises as gold falls to a one-year low",
+  "caption": "Minutes from the US Federal Reserve's October meeting show almost all officials expect further interest rate rises, after the Fed held its key rate at 3.75% to 4% in a 10 to 2 vote. Gold fell about 3% on Wednesday to its lowest level in more than a year. The Fed's next rate decision is due in December, and higher rates would make loans and mortgages more expensive.",
+  "hashtags": [
+    "economy",
+    "news",
+    "dailynews",
+    "federalreserve",
+    "interestrates"
+  ]
+}
