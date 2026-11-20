@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-20",
+  "edition": "morning",
+  "category": "world",
+  "source": "AP, UN News",
+  "voice": "af_heart",
+  "say": {
+    "Rakhine": "Ra-kine"
+  },
+  "headline": {
+    "text": "UN court finds Myanmar committed genocide against Rohingya",
+    "context": "It is the first such ruling against a state.",
+    "vo": "The UN's highest court has ruled that Myanmar committed genocide against the Rohingya, a Muslim minority. It is the first time the International Court of Justice has found that a state committed genocide."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Myanmar",
+        "Bangladesh"
+      ],
+      "bbox": [
+        86.5,
+        15.5,
+        99.5,
+        26.5
+      ],
+      "places": [
+        {
+          "name": "Northern Rakhine",
+          "lat": 20.8,
+          "lon": 92.6,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Bay of Bengal",
+          "lat": 18.0,
+          "lon": 89.5
+        },
+        {
+          "name": "Bangladesh",
+          "lat": 23.9,
+          "lon": 90.0
+        },
+        {
+          "name": "Myanmar",
+          "lat": 22.5,
+          "lon": 95.8
+        }
+      ],
+      "text": "Army campaign in northern *Rakhine*, 2017",
+      "vo": "The case covers a military campaign in northern Rakhine state in 2017. Hundreds of thousands of Rohingya fled across the border to Bangladesh."
+    },
+    {
+      "type": "stat",
+      "number": "9-6",
+      "label": "judges' vote on the genocide finding",
+      "text": "Myanmar must allow a *safe return*",
+      "vo": "Nine of the fifteen judges backed the finding. The court cited an estimated ten thousand Rohingya killed. It ordered Myanmar to allow their safe return, to prosecute those responsible and to pay compensation."
+    },
+    {
+      "type": "quote",
+      "quote": "The victory belongs to the Rohingya. They survived, they testified, and today they were believed.",
+      "who": "Dawda Jallow",
+      "role": "Justice minister, Gambia",
+      "vo": "Gambia brought the case in 2019. The ruling is final and binding, but the court cannot enforce it. It can only report non-compliance to the UN Security Council."
+    }
+  ],
+  "title": "UN top court rules Myanmar committed genocide against the Rohingya",
+  "caption": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya during a 2017 military campaign in northern Rakhine state, the first time the court has found a state responsible for genocide. Judges voted 9 to 6 and ordered Myanmar to allow the safe return of Rohingya, prosecute those responsible and pay compensation. The ruling is binding, but the court has no means to enforce it beyond the UN Security Council.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "myanmar",
+    "rohingya"
+  ]
+}
