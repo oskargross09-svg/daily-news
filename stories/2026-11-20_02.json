@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-20",
+  "edition": "evening",
+  "category": "world",
+  "source": "BBC, AP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Russian missile crashes in Poland during attack on Ukraine",
+    "context": "Poland calls it a provocation by Russia.",
+    "vo": "A Russian cruise missile has crashed in Poland, a NATO member, during a large Russian attack on Ukraine. Poland's government called it a provocation."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Poland",
+        "Ukraine"
+      ],
+      "bbox": [
+        14.0,
+        47.0,
+        32.5,
+        55.0
+      ],
+      "places": [
+        {
+          "name": "Warsaw",
+          "lat": 52.2297,
+          "lon": 21.0122
+        },
+        {
+          "name": "Nowy Lipowiec",
+          "lat": 50.433,
+          "lon": 22.817,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Poland",
+          "lat": 52.8,
+          "lon": 18.0
+        },
+        {
+          "name": "Ukraine",
+          "lat": 48.4,
+          "lon": 28.0
+        }
+      ],
+      "text": "Kh-101 missile lands in *eastern Poland*",
+      "vo": "Poland's defence minister said the missile came down in a field near a village in eastern Poland early on Friday. Another missile and a drone also fell on Polish territory. No one was hurt."
+    },
+    {
+      "type": "stat",
+      "number": "8",
+      "label": "people killed across Ukraine overnight, officials say",
+      "text": "Three *Kyiv bridges* hit",
+      "vo": "It happened during a large Russian strike on Ukraine. At least eight people were killed, Ukrainian officials say, and three bridges in Kyiv were hit. President Putin had promised revenge after Ukraine struck the bridge to Crimea this week."
+    },
+    {
+      "type": "quote",
+      "quote": "We are dealing with yet another provocation by Russia. In my view, the date is not accidental.",
+      "who": "Władysław Kosiniak-Kamysz",
+      "role": "Defence minister, Poland",
+      "vo": "Troops from Ukraine's allies were holding exercises in Poland at the time. Prime Minister Donald Tusk said it did not appear to be an accident. Poland is asking NATO for more support. Russia has not commented."
+    }
+  ],
+  "title": "Russian missile crashes in Poland during major attack on Ukraine",
+  "caption": "A Russian Kh-101 cruise missile crashed in a field in eastern Poland early on Friday, during a large Russian missile and drone attack on Ukraine that killed at least eight people, Ukrainian officials say. No one in Poland was hurt. Polish leaders called it a deliberate provocation timed with allied military exercises in the country, and Poland is asking NATO for more support.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "poland",
+    "ukraine"
+  ]
+}
