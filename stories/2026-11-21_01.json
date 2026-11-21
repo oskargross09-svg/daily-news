@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-21",
+  "edition": "morning",
+  "category": "world",
+  "source": "Reuters, AFP",
+  "voice": "af_heart",
+  "say": {
+    "Houthi": "Hoothee",
+    "Houthis": "Hoothees",
+    "Hodeidah": "Hodaida",
+    "Riyadh": "Reeyahd"
+  },
+  "headline": {
+    "text": "Houthis fire missiles at Riyadh after Yemen port strikes",
+    "context": "Saudi Arabia says all three were intercepted.",
+    "vo": "Saudi Arabia says it shot down three ballistic missiles fired at Riyadh early on Saturday. Yemen's Houthi rebels launched them after Saudi-led air strikes on Yemen."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Saudi Arabia",
+        "Yemen"
+      ],
+      "bbox": [
+        36.0,
+        11.5,
+        54.0,
+        28.5
+      ],
+      "places": [
+        {
+          "name": "Riyadh",
+          "lat": 24.7136,
+          "lon": 46.6753,
+          "main": true
+        },
+        {
+          "name": "Hodeidah",
+          "lat": 14.7978,
+          "lon": 42.9545
+        }
+      ],
+      "labels": [
+        {
+          "name": "Saudi Arabia",
+          "lat": 22.5,
+          "lon": 45.0
+        },
+        {
+          "name": "Yemen",
+          "lat": 16.2,
+          "lon": 47.5
+        },
+        {
+          "name": "Red Sea",
+          "lat": 19.2,
+          "lon": 38.4
+        }
+      ],
+      "text": "*Three missiles* aimed at the Saudi capital",
+      "vo": "The Saudi-led coalition said all three missiles were destroyed. It is the second Houthi attack on the Saudi capital in a few days."
+    },
+    {
+      "type": "timeline",
+      "title": "How it escalated",
+      "items": [
+        {
+          "when": "July",
+          "what": "Yemen's war flares up again"
+        },
+        {
+          "when": "This week",
+          "what": "Riyadh's tallest tower hit"
+        },
+        {
+          "when": "Friday",
+          "what": "Strikes on Hodeidah port"
+        },
+        {
+          "when": "Saturday",
+          "what": "Missiles fired at Riyadh"
+        }
+      ],
+      "vo": "Yemen's war flared up again in July, alongside the US-led war with Iran. Earlier this week, a Houthi attack damaged Riyadh's tallest skyscraper. On Friday, the coalition struck Hodeidah port, saying it was used to smuggle weapons. Hours later, the missiles were fired at Riyadh."
+    },
+    {
+      "type": "quote",
+      "quote": "Saudi airspace is unsafe, as it will be the theatre of our operations in the coming hours.",
+      "who": "Yahya Saree",
+      "role": "Military spokesman, Houthis",
+      "vo": "The Houthis told airlines to treat Saudi airspace as unsafe, and threatened Saudi ports on the Red Sea. The United Nations says there is no military solution."
+    }
+  ],
+  "title": "Houthis fire missiles at Riyadh after Saudi-led strikes on Yemen port",
+  "caption": "Saudi Arabia says it intercepted three ballistic missiles fired by Yemen's Houthis at Riyadh early on Saturday, a day after Saudi-led air strikes on Hodeidah port and Sanaa. The Houthis have warned airlines that Saudi airspace is unsafe and threatened Saudi Red Sea ports. The UN says it is deeply concerned about the escalation and that there is no military solution.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "yemen",
+    "saudiarabia"
+  ]
+}
