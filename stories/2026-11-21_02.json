@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-21",
+  "edition": "evening",
+  "category": "climate",
+  "source": "AP, AFP",
+  "voice": "af_heart",
+  "say": {
+    "Kurum": "Koorum"
+  },
+  "headline": {
+    "text": "UN climate talks run into overtime over fossil fuels",
+    "context": "The latest draft deal no longer mentions them.",
+    "vo": "The UN climate summit in Turkey has run into overtime. Nearly two hundred countries are still negotiating in Antalya, split over whether the final deal should mention fossil fuels."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Turkey"],
+      "places": [
+        {"name": "Istanbul", "lat": 41.0082, "lon": 28.9784},
+        {"name": "Ankara", "lat": 39.9334, "lon": 32.8597},
+        {"name": "Antalya", "lat": 36.8969, "lon": 30.7133, "main": true}
+      ],
+      "text": "COP31 was due to end on *Friday* evening",
+      "vo": "The talks, known as COP31, were due to end on Friday evening. Negotiators are still meeting on Saturday, and a new text is expected."
+    },
+    {
+      "type": "timeline",
+      "title": "How it unfolded",
+      "items": [
+        {"when": "9 Nov", "what": "Talks open in Antalya"},
+        {"when": "Thursday", "what": "Draft drops fossil fuels"},
+        {"when": "Friday", "what": "Deadline passes, no deal"},
+        {"when": "Saturday", "what": "Talks go into overtime"}
+      ],
+      "vo": "The summit opened on the ninth of November. On Thursday, a new draft removed all mentions of fossil fuels. On Friday, the deadline passed without an agreement. On Saturday, the talks went into overtime."
+    },
+    {
+      "type": "quote",
+      "quote": "It is not acceptable to have a COP or a cover document that does not even mention fossil fuels.",
+      "who": "Juan Carlos Navarro",
+      "role": "Environment minister, Panama",
+      "vo": "Panama, France and other countries want a clear transition away from fossil fuels. Turkey's environment minister, Murat Kurum, who presides over the summit, says they are close to the finish line, but not there yet."
+    }
+  ],
+  "title": "UN climate talks COP31 run into overtime over fossil fuels",
+  "caption": "The UN climate summit COP31 in Antalya, Turkey, has run into overtime after missing its Friday evening deadline. Nearly 200 countries are divided over a draft deal that no longer mentions fossil fuels. Panama, France and others are pushing for a clear transition away from coal, oil and gas. A new text is expected on Saturday.",
+  "hashtags": ["climate", "news", "dailynews", "cop31", "fossilfuels"]
+}
