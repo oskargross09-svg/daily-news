@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "edition": "evening",
+  "category": "climate",
+  "source": "Reuters, The Guardian",
+  "voice": "af_heart",
+  "say": {
+    "Kurum": "Koorum",
+    "Darragh": "Darra"
+  },
+  "headline": {
+    "text": "UN climate summit ends without a deal",
+    "context": "Countries rejected a text that left out fossil fuels.",
+    "vo": "The UN climate summit in Turkey has ended without a deal. Talks in Antalya ran on into Sunday, but countries rejected a final text that did not mention fossil fuels."
+  },
+  "beats": [
+    {
+      "type": "statement",
+      "text": [
+        "The EU says the text *does not mention* fossil fuels",
+        "Panama and other countries *also objected*"
+      ],
+      "vo": "The European Union said it could not support the text. Ireland's minister Darragh O'Brien, speaking for the bloc, said it does not even mention fossil fuels. Panama and other countries also objected. Observers say Saudi Arabia and other oil producers had pushed to keep fossil fuels out."
+    },
+    {
+      "type": "quote",
+      "quote": "We have done our utmost; ultimately, we have not imposed this text on anyone.",
+      "who": "Murat Kurum",
+      "role": "COP31 president, Turkey",
+      "vo": "Turkey's Murat Kurum, who presided over the summit, said there was no consensus on the text. He said the hosts had done their utmost and had not imposed it on anyone."
+    },
+    {
+      "type": "stat",
+      "number": "2009",
+      "label": "the last time UN climate talks ended without an agreed deal",
+      "text": "Next year's summit is due in *Ethiopia*",
+      "vo": "The last time UN climate talks ended without an agreed deal was in Copenhagen in 2009. Next year's summit is due to take place in Ethiopia."
+    }
+  ],
+  "title": "UN climate summit COP31 ends without a deal as EU rejects text over fossil fuels",
+  "caption": "The UN climate summit COP31 in Antalya, Turkey, ended on Sunday without a deal. The European Union, Panama and other countries rejected a final text that did not mention fossil fuels, the main cause of global warming. It is the first time since Copenhagen in 2009 that the talks have ended without an agreed outcome. Next year's summit is due to be held in Ethiopia.",
+  "hashtags": ["climate", "news", "dailynews", "cop31", "climatechange"]
+}
