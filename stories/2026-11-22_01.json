@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-22",
+  "edition": "morning",
+  "category": "world",
+  "source": "AFP, Euronews",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Iran launches missile and drone attacks on Bahrain",
+    "context": "Bahrain says a fire broke out at an industrial site.",
+    "vo": "Iran has launched missile and drone attacks on Bahrain, home to the headquarters of the US Navy's Fifth Fleet. Bahrain says its air defences intercepted several of them."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Iran", "Bahrain", "Oman", "United Arab Emirates"],
+      "bbox": [47.5, 23.0, 60.0, 29.5],
+      "places": [
+        {"name": "Bahrain", "lat": 26.0667, "lon": 50.5577, "main": true},
+        {"name": "Hormuz", "lat": 26.5667, "lon": 56.25}
+      ],
+      "labels": [
+        {"name": "Persian Gulf", "lat": 27.4, "lon": 51.6}
+      ],
+      "text": "Iran says it targeted *US bases* in Bahrain",
+      "vo": "Iran's Revolutionary Guards say they targeted US military bases on Saturday night. Bahrain says a civilian industrial site was hit, causing a fire, but no one was hurt."
+    },
+    {
+      "type": "stat",
+      "number": "2",
+      "label": "tankers hit in the Strait of Hormuz, UK maritime agency says",
+      "text": "No casualties were reported",
+      "vo": "Earlier on Saturday, two tankers were struck in the Strait of Hormuz, the UK maritime agency says. No one was reported hurt. Iran says one ship hit a mine."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Iran readies *14 tankers* to break the blockade, an MP says",
+        "Iran calls the US blockade an *act of war*"
+      ],
+      "vo": "The United States is blocking Iran's ports. An Iranian lawmaker says Tehran is preparing fourteen oil tankers to break that blockade. Iran's deputy foreign minister calls the blockade an act of war."
+    }
+  ],
+  "title": "Iran launches missile and drone attacks on Bahrain as tankers are hit in Hormuz",
+  "caption": "Iran launched missile and drone attacks on Bahrain on Saturday night, saying it targeted US military bases. Bahrain says it intercepted several attacks and that a civilian industrial site caught fire, with no injuries. Two tankers were also hit in the Strait of Hormuz, and an Iranian lawmaker says Tehran is preparing 14 tankers to break the US naval blockade.",
+  "hashtags": ["world", "news", "dailynews", "iran", "bahrain"]
+}
