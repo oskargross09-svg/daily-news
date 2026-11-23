@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-23",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Reuters",
+  "voice": "af_heart",
+  "say": {
+    "Rutte": "Rutta"
+  },
+  "headline": {
+    "text": "NATO meets over Russian missiles in Poland",
+    "context": "They came down on Friday. No one was hurt.",
+    "vo": "NATO allies are holding an emergency meeting in Brussels today. It follows Russian missiles that came down in Poland on Friday, during a large Russian attack on Ukraine."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Poland",
+        "Ukraine"
+      ],
+      "bbox": [
+        19.0,
+        48.6,
+        26.0,
+        52.9
+      ],
+      "places": [
+        {
+          "name": "Warsaw",
+          "lat": 52.2297,
+          "lon": 21.0122
+        },
+        {
+          "name": "Nowy Lipowiec",
+          "lat": 50.433,
+          "lon": 22.817,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Poland",
+          "lat": 51.6,
+          "lon": 20.2
+        },
+        {
+          "name": "Ukraine",
+          "lat": 49.6,
+          "lon": 24.9
+        }
+      ],
+      "text": "One was a Russian *Kh-101* cruise missile",
+      "vo": "Polish officials say two missiles and a likely drone fell in the country's southeast. One was a Russian cruise missile that came down about fifty kilometres from the Ukrainian border. Nobody was hurt."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Tusk calls it an *intentional provocation*",
+        "Poland asks allies for *more protection*"
+      ],
+      "vo": "Prime Minister Donald Tusk called it an intentional provocation by Russia. One missile fell about thirty-five kilometres from a European military exercise. Poland's defence minister says allies will send strong support for its eastern border."
+    },
+    {
+      "type": "quote",
+      "quote": "We will defend every inch of Polish territory.",
+      "who": "Mark Rutte",
+      "role": "NATO Secretary General",
+      "vo": "NATO chief Mark Rutte called the incident a grave violation of Polish airspace. He says the alliance will defend every inch of Polish territory."
+    }
+  ],
+  "title": "NATO holds emergency meeting after Russian missiles land in Poland",
+  "caption": "NATO allies are meeting in Brussels after Russian missiles came down in southeastern Poland on Friday, during a large Russian attack on Ukraine. Nobody was hurt. Prime Minister Donald Tusk called it an intentional provocation, and NATO chief Mark Rutte said the alliance will defend every inch of Polish territory. Poland is asking allies for stronger protection of its eastern border.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "nato",
+    "poland"
+  ]
+}
