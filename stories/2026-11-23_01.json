@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-23",
+  "edition": "morning",
+  "category": "politics",
+  "source": "AP, Fox News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Democrats win biggest US House majority since 1992",
+    "context": "They now hold at least 258 of 435 seats.",
+    "vo": "Democrats have won at least two hundred and fifty-eight seats in the US House of Representatives. That is their largest majority since 1992, the Associated Press says."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "44",
+      "label": "House seats gained by Democrats so far, AP says",
+      "text": "Four races are *still open*",
+      "vo": "Democrats have gained forty-four seats so far, more than the forty they won in 2018. Before the vote, Republicans held only a narrow majority. Four races are still open."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Democrat Chuck Hubbard beat *Virginia Foxx*",
+        "President Trump keeps his *veto power*"
+      ],
+      "vo": "The final call came on Sunday in North Carolina. Democrat Chuck Hubbard beat Republican Virginia Foxx, who had held the seat since 2005. Democrats plan investigations and new laws. But President Trump can still veto bills."
+    },
+    {
+      "type": "timeline",
+      "title": "The road to power",
+      "items": [
+        {"when": "3 Nov", "what": "Americans vote in midterms"},
+        {"when": "17 Nov", "what": "Democrats win the Senate"},
+        {"when": "3 Jan", "what": "Jeffries set to be speaker"}
+      ],
+      "vo": "Americans voted in the midterm elections on November the third. Democrats also won the Senate, with fifty-six of the hundred seats. Hakeem Jeffries is set to become House speaker on January the third."
+    }
+  ],
+  "title": "Democrats win at least 258 US House seats, their biggest majority since 1992",
+  "caption": "Democrats have won at least 258 seats in the US House of Representatives, their largest majority since 1992, the AP says. The mark was reached on Sunday when Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina. Democrats also control the Senate with 56 seats, and Hakeem Jeffries is set to become House speaker in January. President Trump keeps his veto power.",
+  "hashtags": ["politics", "news", "dailynews", "uspolitics", "midterms"]
+}
