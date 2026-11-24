@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-24",
+  "edition": "morning",
+  "category": "tech",
+  "source": "CBS News, ABC News",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "Nvidia brings back Jensen Huang as chief executive",
+    "context": "The board voted unanimously, 11 days after he quit.",
+    "vo": "Nvidia has reinstated Jensen Huang as its chief executive. The chipmaker's board voted unanimously on Monday."
+  },
+  "beats": [
+    {
+      "type": "timeline",
+      "title": "How it happened",
+      "items": [
+        {
+          "when": "12 Nov",
+          "what": "Huang resigns as CEO"
+        },
+        {
+          "when": "17 Nov",
+          "what": "Board rules out his return"
+        },
+        {
+          "when": "Weekend",
+          "what": "Trump calls for his return"
+        },
+        {
+          "when": "23 Nov",
+          "what": "Board reinstates him"
+        }
+      ],
+      "vo": "Huang quit on November the twelfth, after reports of an affair with a woman US agencies suspected of spying for China, which Beijing denies. Days later, the board ruled out his return. Then President Trump pushed to bring him back. On Monday, the board reversed course, citing input from senior US officials."
+    },
+    {
+      "type": "stat",
+      "number": "31%",
+      "label": "rise in Nvidia shares on Monday",
+      "text": "The Nasdaq index closed up *6.5%*",
+      "vo": "Nvidia shares closed up more than thirty-one percent, and the Nasdaq index rose about six and a half percent."
+    },
+    {
+      "type": "quote",
+      "quote": "I take this responsibility with the greatest humility and renewed commitment.",
+      "who": "Jensen Huang",
+      "role": "Nvidia chief executive",
+      "vo": "Huang said he was honoured to return. An independent board committee is still investigating, and Nvidia says it will keep cooperating with government inquiries."
+    }
+  ],
+  "title": "Nvidia reinstates Jensen Huang as CEO, shares jump 31%",
+  "caption": "Nvidia's board has unanimously reinstated Jensen Huang as chief executive, 11 days after he resigned amid reports linking him to a woman suspected of spying for China, which Beijing denies. President Trump had pushed for his return. Nvidia shares closed up more than 31% on Monday. An independent board committee is still investigating, and Nvidia says it will keep cooperating with government inquiries.",
+  "hashtags": [
+    "tech",
+    "news",
+    "dailynews",
+    "nvidia",
+    "jensenhuang"
+  ]
+}
