@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-24",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, CBS News",
+  "voice": "af_heart",
+  "say": {
+    "Qalibaf": "Kahleebahf",
+    "Bagher": "Bahgher"
+  },
+  "headline": {
+    "text": "Iran rules out US talks until its demands are met",
+    "context": "Iran says oil tankers hit mines in the Strait of Hormuz.",
+    "vo": "Iran says it will not negotiate with the United States until its seven conditions are met. Parliament speaker Mohammad Bagher Qalibaf, Iran's chief negotiator, said so on state TV on Tuesday."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Iran",
+        "Oman",
+        "United Arab Emirates"
+      ],
+      "bbox": [
+        51.5,
+        23.5,
+        60.5,
+        29.0
+      ],
+      "places": [
+        {
+          "name": "Bandar Abbas",
+          "lat": 27.1832,
+          "lon": 56.2666
+        },
+        {
+          "name": "Strait of Hormuz",
+          "lat": 26.5667,
+          "lon": 56.25,
+          "main": true
+        }
+      ],
+      "labels": [
+        {
+          "name": "Persian Gulf",
+          "lat": 26.0,
+          "lon": 52.6
+        },
+        {
+          "name": "Gulf of Oman",
+          "lat": 24.6,
+          "lon": 58.6
+        }
+      ],
+      "text": "Iran says tankers hit *mines* in the strait",
+      "vo": "Iran's navy says oil tankers struck naval mines in the Strait of Hormuz on Monday and Tuesday, and caught fire. It says the ships broke its transit rules. No casualties have been reported."
+    },
+    {
+      "type": "stat",
+      "number": "7",
+      "label": "conditions Iran sets before any talks with the US",
+      "text": "They include an end to the US *naval blockade*",
+      "vo": "Iran has not published the conditions. State media say they include lifting sanctions, ending the US naval blockade of Iranian ports, and releasing seized Iranian assets."
+    },
+    {
+      "type": "quote",
+      "quote": "will never be reopened until Iran's objectives and demands are met.",
+      "who": "Iranian navy",
+      "role": "Statement on the Strait of Hormuz",
+      "vo": "The navy says the strait will stay closed until Iran's demands are met. Qatar's prime minister says Doha is working with both sides to restart talks."
+    }
+  ],
+  "title": "Iran rules out talks with the US until its seven conditions are met",
+  "caption": "Iran says it will not negotiate with the United States until seven conditions are met, including an end to the US naval blockade of its ports. Iran's navy says oil tankers hit mines in the Strait of Hormuz on Monday and Tuesday, with no casualties reported. Qatar says it is working with both sides to revive talks.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "iran",
+    "hormuz"
+  ]
+}
