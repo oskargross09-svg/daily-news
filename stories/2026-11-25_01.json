@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-25",
+  "edition": "morning",
+  "category": "economy",
+  "source": "Reuters, Politico",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "US prepares new tariffs on 16 trading partners",
+    "context": "China, the EU and Japan are among those targeted.",
+    "vo": "The United States is preparing new tariffs on sixteen of its trading partners, including China, the European Union and Japan. The plans could be announced as soon as this week, Reuters reports."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "16",
+      "label": "trading partners on the list, Reuters reports",
+      "text": "Also India, Mexico, Vietnam and *South Korea*",
+      "vo": "The list also includes India, Mexico, Vietnam and South Korea. All were part of a US investigation into excess industrial capacity."
+    },
+    {
+      "type": "timeline",
+      "title": "How it happened",
+      "items": [
+        {"when": "Feb", "what": "Court strikes down tariffs"},
+        {"when": "Mar", "what": "US opens trade probes"},
+        {"when": "Nov", "what": "New tariffs expected"}
+      ],
+      "vo": "In February, the US Supreme Court struck down President Trump's sweeping global tariffs. In March, his trade office opened investigations into the sixteen economies. Now it is expected to propose new duties based on the findings."
+    },
+    {
+      "type": "statement",
+      "text": ["Rates have *not been announced*", "Comments and *hearings* come first"],
+      "vo": "The rates have not been announced. Reports say they would stay within limits set in existing trade deals. Under US law, public comments and hearings must come before any new duties take effect."
+    }
+  ],
+  "title": "US prepares new tariffs on China, the EU, Japan and 13 other trading partners",
+  "caption": "The United States is preparing new tariffs on 16 trading partners, including China, the European Union, Japan, India and South Korea, Reuters and Politico report. They follow investigations into excess industrial capacity, opened after the Supreme Court struck down President Trump's global tariffs in February. Rates have not been announced, and public comments and hearings are required before any new duties take effect.",
+  "hashtags": ["economy", "news", "dailynews", "tariffs", "trade"]
+}
