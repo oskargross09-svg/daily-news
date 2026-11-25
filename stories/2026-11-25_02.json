@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-25",
+  "edition": "evening",
+  "category": "tech",
+  "source": "AP, Dawn",
+  "voice": "af_heart",
+  "say": {
+    "Shenzhou": "Shen-joe",
+    "Jiuquan": "Joechwan"
+  },
+  "headline": {
+    "text": "Pakistan's first astronaut reaches China's space station",
+    "context": "He is the first foreign crew member on Tiangong.",
+    "vo": "China has launched its Shenzhou-24 spacecraft, carrying Pakistan's first astronaut. He is the first foreign crew member to visit China's Tiangong space station."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "China",
+        "Pakistan"
+      ],
+      "places": [
+        {
+          "name": "Islamabad",
+          "lat": 33.6844,
+          "lon": 73.0479
+        },
+        {
+          "name": "Jiuquan",
+          "lat": 40.958,
+          "lon": 100.291,
+          "main": true
+        }
+      ],
+      "text": [
+        "Launched from *Jiuquan*, northwest China",
+        "Docked *3 hours 38 minutes* later"
+      ],
+      "vo": "The rocket lifted off from the Jiuquan launch centre in northwest China at eight eighteen on Wednesday morning, Beijing time. The spacecraft docked with the station three hours and thirty-eight minutes later."
+    },
+    {
+      "type": "stat",
+      "number": "90",
+      "label": "experiments planned for the crew, China's space agency says",
+      "text": "Ali will run *photosynthesis* experiments",
+      "vo": "On board are Chinese astronauts Tang Hongbo and Wu Yi, and Pakistani air force pilot Muhammad Zeeshan Ali. The crew plans about ninety experiments. Ali will study tiny organisms that could one day make food and oxygen in space."
+    },
+    {
+      "type": "quote",
+      "quote": "This is not just one astronaut's journey, but the journey of 240 million Pakistanis.",
+      "who": "Shehbaz Sharif",
+      "role": "Prime Minister of Pakistan",
+      "vo": "Pakistan's prime minister celebrated the launch. The head of Pakistan's space agency says the country now aims to reach the moon by 2035."
+    }
+  ],
+  "title": "Pakistan's first astronaut reaches China's Tiangong space station on Shenzhou-24",
+  "caption": "China's Shenzhou-24 spacecraft has docked with the Tiangong space station, carrying Pakistani air force pilot Muhammad Zeeshan Ali, the first foreign crew member to visit the station. He flew with Chinese astronauts Tang Hongbo and Wu Yi from the Jiuquan launch centre. The crew plans about 90 experiments, and Pakistan's space agency says it aims to reach the moon by 2035.",
+  "hashtags": [
+    "tech",
+    "news",
+    "dailynews",
+    "pakistan",
+    "space"
+  ]
+}
