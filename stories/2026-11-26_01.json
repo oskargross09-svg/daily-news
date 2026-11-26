@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-26",
+  "edition": "morning",
+  "category": "world",
+  "source": "AP, Reuters",
+  "voice": "af_heart",
+  "say": {
+    "Warraq": "Warrahk"
+  },
+  "headline": {
+    "text": "Fuel tanker fire kills at least 31 near Cairo",
+    "context": "The blaze spread across a major highway in Giza.",
+    "vo": "A fuel tanker crash has set off a huge fire on a major highway near Cairo. At least thirty-one people have died, Egyptian authorities say."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Egypt"
+      ],
+      "bbox": [
+        28.5,
+        28.6,
+        34.0,
+        31.8
+      ],
+      "places": [
+        {
+          "name": "Greater Cairo",
+          "lat": 30.105,
+          "lon": 31.211,
+          "main": true
+        }
+      ],
+      "text": [
+        "Ring road in *Warraq*, Giza",
+        "Flames spread to *nearby cars*"
+      ],
+      "vo": "The fire broke out on Wednesday on Cairo's ring road, in the Warraq district of Giza. A tanker carrying petroleum products caught fire. The flames then spread to the cars around it."
+    },
+    {
+      "type": "stat",
+      "number": "31",
+      "label": "deaths confirmed so far, Egypt's health ministry says",
+      "text": "At least *15* people injured",
+      "vo": "Rescue workers pulled people from burning cars. The health ministry says at least thirty-one people were killed and at least fifteen injured. The health minister says the toll is preliminary and could rise."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Cause *not yet known*",
+        "Authorities are *investigating*"
+      ],
+      "vo": "It is not yet clear what caused the crash. Authorities are investigating. President Abdel Fattah el-Sisi has sent his condolences to the families of the victims."
+    }
+  ],
+  "title": "Fuel tanker fire on Cairo ring road kills at least 31 people",
+  "caption": "A fuel tanker crash set off a large fire on Cairo's ring road in the Warraq district of Giza on Wednesday, killing at least 31 people, Egypt's health ministry says. At least 15 people were injured, and officials say the toll could rise. The cause is not yet known and authorities are investigating.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "egypt",
+    "cairo"
+  ]
+}
