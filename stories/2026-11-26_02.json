@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-26",
+  "edition": "evening",
+  "category": "climate",
+  "source": "Copernicus, The Guardian",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "World tops 2C of warming for six days in a row",
+    "context": "A first on record, preliminary Copernicus data show.",
+    "vo": "For the first time on record, global temperatures have stayed more than two degrees Celsius above pre-industrial levels for six days in a row, preliminary data from the EU's Copernicus climate service show."
+  },
+  "beats": [
+    {
+      "type": "stat",
+      "number": "2.24°",
+      "label": "Celsius above the 1850–1900 average on Monday, Copernicus says",
+      "text": "The highest daily reading *on record*",
+      "vo": "On Monday, the daily global temperature reached two point two four degrees above the 1850 to 1900 average. Scientists say that is the highest ever recorded."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "Driven by *fossil fuels* and El Niño",
+        "Paris goals use *long-term* averages"
+      ],
+      "vo": "Scientists say the spikes come from long-term warming caused by burning fossil fuels, and an unusually strong El Niño. But the Paris climate targets are measured as averages over many years. So these six days do not mean the limit has been breached."
+    },
+    {
+      "type": "quote",
+      "quote": "There's a lot more heat coming down the pipeline.",
+      "who": "Samantha Burgess",
+      "role": "Copernicus Climate Change Service",
+      "vo": "Samantha Burgess of the Copernicus Climate Change Service calls it an exceptional temperature anomaly. She warns there is a lot more heat coming down the pipeline."
+    }
+  ],
+  "title": "Earth stays more than 2C above pre-industrial levels for six days in a row",
+  "caption": "Global temperatures stayed more than 2C above pre-industrial levels for six days in a row for the first time on record, preliminary Copernicus data show, peaking at 2.24C on Monday. Scientists point to warming from fossil fuels and a strong El Niño. The Paris targets refer to long-term averages, so the limit has not been formally breached, but scientists expect more days above 2C in the coming months.",
+  "hashtags": [
+    "climate",
+    "news",
+    "dailynews",
+    "climatechange",
+    "elnino"
+  ]
+}
