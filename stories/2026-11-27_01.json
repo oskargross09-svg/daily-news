@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-27",
+  "edition": "morning",
+  "category": "world",
+  "source": "AFP, AP",
+  "voice": "af_heart",
+  "say": {"Rheinmetall": "Rinemetal", "Araghchi": "Arahgchee"},
+  "headline": {
+    "text": "Drone attack in Kuwait kills two Italian workers",
+    "context": "Kuwait blames Iran, which denies any role.",
+    "vo": "Two Italian technicians have been killed in a drone attack in Kuwait. Kuwait says the drones were Iranian. Iran denies any involvement."
+  },
+  "beats": [
+    {"type": "map", "focus": ["Kuwait"],
+     "bbox": [42.5, 25.5, 55.5, 37.0],
+     "places": [{"name": "Kuwait", "lat": 29.33, "lon": 47.6, "main": true}, {"name": "Tehran", "lat": 35.6892, "lon": 51.389}],
+     "labels": [{"name": "Persian Gulf", "lat": 27.4, "lon": 51.2}],
+     "text": ["Drones targeted a *military site*", "Victims maintained *air defences*"],
+     "vo": "Kuwait's army says several drones entered its airspace on Thursday afternoon and targeted what it called a vital site. The two Italians worked for the defence company Rheinmetall, maintaining air-defence antennas. Officials say they were hit by falling shrapnel from intercepted drones."},
+    {"type": "stat", "number": "4", "label": "people injured, Kuwait's army says",
+     "text": "Two Italians *died* of their injuries",
+     "vo": "Four people were hurt, Kuwait says. The two Italians later died. A Kuwaiti and a Pakistani were also injured."},
+    {"type": "quote", "quote": "The incident is suspicious and looks like a precooked recipe for war.",
+     "who": "Abbas Araghchi", "role": "Iran's foreign minister",
+     "vo": "Iran's foreign minister, Abbas Araghchi, says Iran had no role, and has proposed a joint investigation with Kuwait. Italy's prime minister, Giorgia Meloni, expressed her deepest sorrow. Iran has stepped up attacks on Kuwait and Bahrain over the past week."}
+  ],
+  "title": "Two Italian workers killed in drone attack in Kuwait, Iran denies role",
+  "caption": "Two Italian technicians working for Rheinmetall were killed when drones targeted a military site in Kuwait on Thursday, Kuwait's army says. Kuwait and Italy say the drones were Iranian; Iran denies any involvement and has proposed a joint investigation. It is the first deadly strike in Kuwait in months, as tensions in the Gulf rise again.",
+  "hashtags": ["world", "news", "dailynews", "kuwait", "iran"]
+}
