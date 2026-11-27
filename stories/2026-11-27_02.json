@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-27",
+  "edition": "evening",
+  "category": "politics",
+  "source": "Euronews, Reuters",
+  "voice": "af_heart",
+  "say": {"Macron": "Mahcrohn"},
+  "headline": {
+    "text": "EU leaders end summit without a budget deal",
+    "context": "A new loan for Ukraine is on hold until December.",
+    "vo": "European Union leaders have ended a summit in Brussels without agreeing on the bloc's next long-term budget. A proposed new loan for Ukraine is on hold too."
+  },
+  "beats": [
+    {"type": "map", "focus": ["Slovakia", "Hungary", "Czechia"],
+     "bbox": [-2.0, 43.0, 26.0, 55.5],
+     "places": [{"name": "Brussels", "lat": 50.8503, "lon": 4.3517, "main": true}],
+     "text": ["No deal on the *2028–2034* budget", "Three countries *reject* the new loan"],
+     "vo": "The talks ended late on Thursday night. Countries are divided over how large the budget should be, and over cuts to farm and regional aid. Slovakia, Hungary and Czechia refuse to back a new loan for Ukraine."},
+    {"type": "stat", "number": "€45bn", "label": "new loan proposed for Ukraine in 2027",
+     "text": "*24* of 27 countries back it, Costa says",
+     "vo": "The European Commission has proposed lending Ukraine forty-five billion euros next year. European Council President António Costa says twenty-four of the twenty-seven member states support the plan."},
+    {"type": "quote", "quote": "We will revert to this issue in December.",
+     "who": "António Costa", "role": "President of the European Council",
+     "vo": "Leaders will try again at their next summit in mid-December. France's president, Emmanuel Macron, says a budget deal must come by the end of the year at the latest."}
+  ],
+  "title": "EU leaders end summit without budget deal, Ukraine loan delayed to December",
+  "caption": "EU leaders ended a summit in Brussels without agreeing on the bloc's 2028–2034 budget. A proposed €45bn loan for Ukraine in 2027 is backed by 24 of 27 member states, European Council President António Costa says, but Slovakia, Hungary and Czechia are holding out. Leaders will return to both issues at their summit in mid-December.",
+  "hashtags": ["politics", "news", "dailynews", "eu", "ukraine"]
+}
