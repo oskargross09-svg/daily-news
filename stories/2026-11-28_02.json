@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-28",
+  "edition": "evening",
+  "category": "world",
+  "source": "AP, Al Jazeera",
+  "voice": "af_heart",
+  "say": {"Kunar": "Koonar"},
+  "headline": {
+    "text": "Blast near Afghan school kills at least 10",
+    "context": "About 110 people were injured in Kunar province.",
+    "vo": "An explosion near a school in eastern Afghanistan has killed at least ten people, the Taliban's interior ministry says. Students are among the dead."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": ["Afghanistan"],
+      "bbox": [66.5, 32.3, 74.5, 36.8],
+      "places": [
+        {"name": "Kabul", "lat": 34.5553, "lon": 69.2075},
+        {"name": "Asadabad", "lat": 34.8742, "lon": 71.1528, "main": true}
+      ],
+      "labels": [{"name": "Pakistan", "lat": 33.4, "lon": 72.6}],
+      "text": ["Asadabad, *Kunar* province", "Near the border with *Pakistan*"],
+      "vo": "The blast happened on Saturday morning in Asadabad, the capital of Kunar province. It hit an area right next to a middle school, close to the border with Pakistan."
+    },
+    {
+      "type": "stat",
+      "number": "110",
+      "label": "people injured, the interior ministry says",
+      "text": "At least *10* people killed",
+      "vo": "About one hundred and ten people were injured, according to the ministry. Hospitals in Kunar are treating the wounded. Officials say the figures are preliminary and could change."
+    },
+    {
+      "type": "statement",
+      "text": ["Explosives stored by *mining firms*", "Officials blame *negligence*"],
+      "vo": "Early findings suggest the blast came from explosives that mining companies had stored near the school, the ministry says. A spokesman blamed negligence and carelessness. Authorities say they are still investigating."
+    }
+  ],
+  "title": "Explosion near a school in eastern Afghanistan kills at least 10 people",
+  "caption": "An explosion near a middle school in Asadabad, the capital of Afghanistan's Kunar province, killed at least 10 people on Saturday, including students, and injured about 110, the Taliban's interior ministry says. Early findings point to explosives stored nearby by mining companies. Officials say the figures are preliminary and an investigation is under way.",
+  "hashtags": ["world", "news", "dailynews", "afghanistan", "kunar"]
+}
