@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-28",
+  "edition": "morning",
+  "category": "world",
+  "source": "Reuters, AFP",
+  "voice": "af_heart",
+  "say": {},
+  "headline": {
+    "text": "UN warns hunger will worsen in 16 hotspots",
+    "context": "Up from 13 in June, as aid falls and El Niño grows.",
+    "vo": "Two United Nations agencies warn that hunger will get worse in sixteen places around the world over the next six months, up from thirteen in June."
+  },
+  "beats": [
+    {
+      "type": "map",
+      "focus": [
+        "Sudan",
+        "S. Sudan",
+        "Somalia",
+        "Nigeria",
+        "Yemen"
+      ],
+      "bbox": [
+        -2.0,
+        -8.0,
+        56.0,
+        26.0
+      ],
+      "places": [
+        {
+          "name": "North Darfur",
+          "lat": 13.63,
+          "lon": 25.35,
+          "main": true
+        }
+      ],
+      "text": [
+        "*Five* places of highest concern",
+        "Famine risk in parts of *Sudan*"
+      ],
+      "vo": "The food agencies name Sudan, South Sudan, Somalia, northern Nigeria and Yemen as the places of highest concern. Conflict drives hunger in twelve of the sixteen hotspots. In Sudan, famine remains a risk in thirteen areas of North Darfur and South Kordofan through January."
+    },
+    {
+      "type": "stat",
+      "number": "$2bn",
+      "label": "aid for those five countries in 2025, down from $5.1bn in 2022",
+      "text": "Aid fell by about *two-thirds*",
+      "vo": "Meanwhile, humanitarian aid for these five countries fell by about two-thirds in three years, the agencies say."
+    },
+    {
+      "type": "statement",
+      "text": [
+        "*Four* new hotspots since June",
+        "*El Niño* raises the risk of drought"
+      ],
+      "vo": "Chad, Uganda, and parts of southern Africa and Central America have been added. A developing El Niño could bring drought and extreme heat to southern Africa and Central America, and flooding to eastern Africa."
+    }
+  ],
+  "title": "UN warns hunger will worsen in 16 hotspots as aid falls and El Niño grows",
+  "caption": "The UN food agencies FAO and WFP say acute hunger is set to worsen in 16 hotspots from December 2026 to May 2027, up from 13 in June. Sudan, South Sudan, Somalia, northern Nigeria and Yemen face the gravest risks, while aid to them has fallen by about two-thirds since 2022. A developing El Niño could bring drought to southern Africa and Central America.",
+  "hashtags": [
+    "world",
+    "news",
+    "dailynews",
+    "hunger",
+    "elnino"
+  ]
+}
